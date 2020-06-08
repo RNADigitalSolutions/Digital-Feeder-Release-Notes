@@ -4,12 +4,12 @@
 
 ### New features:
 - Shortcut: <kbd>alt</kbd> + click on object: Move camera to current selected object and set it as the camera focus center.
-- Motion flag (Dynamic/Static/Dynamic) for each object shown in object list.
+- Motion flag (Dynamic/Static/Kinematic) for each object shown in object list.
 - Stop simulation: before the first run of the simulation, the scenario will be saved as the start scenario. When clicking the stop button, the scenario will be reset to the start scenario:
 ![](/img/stop_button.gif) 
 
 ###  Improvements
-- Import several stl-files at the same time.
+- Import several stl-files at the same time. The selection count is shown in status bar.
 - Rename the imported stl objects with their file name automatically.
 - Object multiselection und deselection.
 - Optimized the behavior of button state switching (enabled/disabled).
