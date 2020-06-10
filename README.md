@@ -1,9 +1,9 @@
 # Release Notes
 
-## 07.06.2020
+## 10.06.2020
 
 ### New features:
-- Shortcut: <kbd>alt</kbd> + click on object: Move camera to current selected object and set it as the camera focus center.
+- Shortcut: double click middle button on object: Move camera to current selected object and set it as the camera focus center.
 - Motion flag (Dynamic/Static/Kinematic) for each object shown in object list.
 - Stop simulation: before the first run of the simulation, the scenario will be saved as the start scenario. When clicking the stop button, the scenario will be reset to the start scenario:
 ![](/img/stop_button.gif) 
