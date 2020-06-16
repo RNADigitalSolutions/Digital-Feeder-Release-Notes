@@ -1,6 +1,6 @@
 # Release Notes
 
-## 10.06.2020
+## 16.06.2020
 
 ### New features:
 - Shortcut: double click middle button on object: Move camera to current selected object and set it as the camera focus center.
