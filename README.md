@@ -1,12 +1,14 @@
 # Release Notes
 
-## xx.xx.2020
+## 07.07.2020
 
 ### New features
 
-- Set static object immaterial, in oder to remove its rigid body from simulation.
+- Set static object **immaterial**, in oder to remove its rigid body from simulation.
+- New file format `.dfs` (*Digital Feeder Scenario*).
+- Drag & Drop `.stl` and `.dfs` files.
+- Open `.dfs` file directly with Digital Feeder.
 - Multi parameterization.
-- Drag & Drop `stl` files.
 
 ### Improvements
 
