@@ -1,5 +1,16 @@
 # Release Notes
 
+## 19.07.2020
+
+###  Improvements
+
+- Greater camera far plane to render the objects far away from camera.
+
+### Bug fixes
+
+- Failure when setting color of sevaral objects parallelly.
+- Failure when turning object from static to kinematic.
+
 ## 07.07.2020
 
 ### New features
@@ -9,8 +20,6 @@
 - Drag & Drop `.stl` and `.dfs` files.
 - Open `.dfs` file directly with Digital Feeder.
 - Multi parameterization.
-
-### Improvements
 
 ### Bug fixes
 
