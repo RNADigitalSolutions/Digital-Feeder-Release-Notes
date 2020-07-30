@@ -8,7 +8,7 @@ Die Einheit der Margin auf der *Physical Properties* Dialogmaske ist bereits auf
 
 ### Achtung
 
-Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0` angezeigt, weil der Anfangswert der Margin kann nicht per der Methode `getMargin()` zugereifen werden. 
+Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0 mm` angezeigt, weil der Anfangswert der Margin kann nicht per der Methode `getMargin()` zugereifen werden. Nach dem Test schätze ich, dass dieser Anfangswert `0,1 mm` beträgt.
 
 
 ## Erklärung der Margin
