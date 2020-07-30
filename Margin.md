@@ -9,7 +9,7 @@ In der Bullet-Einleitung [Bullet User Manual](https://github.com/bulletphysics/b
 und 
 
 > **Don’t set the collision margin to zero**
-> 
+
 > Collision detection system needs some margin for performance and stability.
 
 
