@@ -11,6 +11,13 @@ Die Einheit der Margin auf der *Physical Properties* Dialogmaske ist bereits auf
 Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0 mm` angezeigt, weil der **Anfangswert** der Margin kann nicht direkt genommen werden. (Nach dem Test schätze ich, dass dieser Anfangswert `0,1 mm` beträgt.) Nachdem die Margin geändert wurde, wird dieser Wert auf der Maske richtig angezeigt.
 
 
+## Beispiel
+
+![](img/margin1.png)
+![](img/margin2.png)
+![](img/margin3.png)
+![](img/margin4.png)
+
 ## Erklärung der Margin
 
 In der Bullet-Einleitung [Bullet User Manual](https://github.com/bulletphysics/bullet3/blob/master/docs/Bullet_User_Manual.pdf) wird die Margin wie folgt erläutert:
