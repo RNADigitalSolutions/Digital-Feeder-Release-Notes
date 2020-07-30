@@ -8,7 +8,7 @@ Die Einheit der Margin auf der *Physical Properties* Dialogmaske ist bereits auf
 
 ### Achtung
 
-Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0 mm` angezeigt, weil der **Anfangswert** der Margin kann nicht direkt zugegriffen werden. (Nach dem Test schätze ich, dass dieser Anfangswert `0,1 mm` beträgt.)
+Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0 mm` angezeigt, weil der **Anfangswert** der Margin kann nicht direkt genommen werden. (Nach dem Test schätze ich, dass dieser Anfangswert `0,1 mm` beträgt.) Nachdem die Margin geändert wurde, wird dieser Wert auf der Maske richtig angezeigt.
 
 
 ## Erklärung der Margin
@@ -28,6 +28,8 @@ Die Quelldatei `btCollisionMargin.h` enthält jedoch die folgende Erklärung:
 
 > Note that when creating small objects, you need to make sure to set a smaller collision margin.
 
-Ich denke, eine Lösung die bemerkbare Spiele zwischen Objekte zu entfernen ist 
+Daher können wir in der Zukunft in den Source-Codes den Margin-Wert basierend auf der Größe eines Bauteils dynamisch festlegen.
 
-<a name="myfootnote1">①</a>: Footnote content goes here
+---
+
+<a name="myfootnote1">①</a>: Dieser Standardwert `0,04` gilt vermutlich nur für die bullet-Klasse `btConvexInternalShape`, die bei *Digital Feeder* nicht verwendet wird.
