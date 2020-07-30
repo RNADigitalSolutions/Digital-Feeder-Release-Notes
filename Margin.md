@@ -1,10 +1,14 @@
 # Margin
 
-Die Einheit der Margin auf der *Physical Properties* Dialogmaske ist **`mm`**
+In diesem Release kann der Margin-Wert von Custom-Object eingestellt werden.
+Die Einheit der Margin auf der *Physical Properties* Dialogmaske ist bereits auf **Millimeter** skaliert.
+
+![](img/margin.png)
+
 
 ### Achtung
 
-Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0` angezeigt, weil der Anfangswert der Margin kann nicht per der Methode `getMargin()` zugereifen 
+Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margin-Wert als `0` angezeigt, weil der Anfangswert der Margin kann nicht per der Methode `getMargin()` zugereifen werden. 
 
 
 ## Erklärung der Margin
@@ -26,7 +30,6 @@ Die Quelldatei `btCollisionMargin.h` enthält jedoch die folgende Erklärung:
 
 ## Mögliche Lösung
 
-In diesem Release kann der Margin-Wert von Custom-Object eingestellt werden.
 
 
 Ich denke, eine Lösung die bemerkbare Spiele zwischen Objekte zu entfernen ist 
