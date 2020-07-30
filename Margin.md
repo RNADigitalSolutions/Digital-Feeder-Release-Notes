@@ -15,7 +15,7 @@ Wenn die Margin von einem Custom-Object noch nie geändert wurde, wird der Margi
 
 In der Bullet-Einleitung [Bullet User Manual](https://github.com/bulletphysics/bullet3/blob/master/docs/Bullet_User_Manual.pdf) wird die Margin wie folgt erläutert:
 
-> Bullet uses a small collision margin for collision shapes, to improve performance and reliability of the collision detection. It is best **not to modify the default collision margin**, and if you do use a positive value: zero margin might introduce problems. By default this collision margin is set to **0.04** <sup>[1](#myfootnote1)</sup>, which is 4 centimeter if your units are in meters (recommended). Dependent on which collision shapes, the margin has different meaning. Generally the collision margin will expand the object. This will create a small gap. To compensate for this, some shapes will subtract the margin from the actual size. For **convex hulls, cylinders and cones**, the margin is added to the extents of the object, so a **gap will occur**, unless you adjust the graphics mesh or collision size.
+> Bullet uses a small collision margin for collision shapes, to improve performance and reliability of the collision detection. It is best **not to modify the default collision margin**, and if you do use a positive value: zero margin might introduce problems. By default this collision margin is set to **0.04** <sup>[①](#myfootnote1)</sup>, which is 4 centimeter if your units are in meters (recommended). Dependent on which collision shapes, the margin has different meaning. Generally the collision margin will expand the object. This will create a small gap. To compensate for this, some shapes will subtract the margin from the actual size. For **convex hulls, cylinders and cones**, the margin is added to the extents of the object, so a **gap will occur**, unless you adjust the graphics mesh or collision size.
 
 und 
 
@@ -30,4 +30,4 @@ Die Quelldatei `btCollisionMargin.h` enthält jedoch die folgende Erklärung:
 
 Ich denke, eine Lösung die bemerkbare Spiele zwischen Objekte zu entfernen ist 
 
-<a name="myfootnote1">1</a>: Footnote content goes here
+<a name="myfootnote1">①</a>: Footnote content goes here
