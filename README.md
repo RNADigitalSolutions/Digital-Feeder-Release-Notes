@@ -1,5 +1,30 @@
 # Release Notes
 
+## 02.09.2020 (incomplete version)
+
+### New features
+
+- 3D-window picker: selection of objects and sources from 3D-window (holding <kbd>Ctrl</kbd> or <kbd>Shift</kbd> for multiselection).
+- Tree view: the objects generated from one source will be shown in a group.
+- Content menu for selected objects and/or sources from tree view and 3D-window.
+- **Source Properties** Dialog: the paramters of source can be shown here, and source can be also paused and restarted.
+- Normal distribution for restitution and friction.
+- Hide/unhide objects and sources.
+
+### Improvements
+
+- Adjusted icon for **Create Source** button.
+- Better structure of the entire codebase.
+
+### Incomplete features
+
+This version is incomplete. The following features are still under heavy construction and will be done in next releases:
+
+- **Stop** button: it does not work properly (again).
+- Editing source from **Source Properties**:
+	- removing source,
+	- parameterizing source.
+
 ## 19.07.2020
 
 ###  Improvements
