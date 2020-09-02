@@ -23,7 +23,7 @@ This version is incomplete. The following features are still under heavy constru
 - **Stop** button: it does not work properly (again).
 - Source is still not parameterizable from **Source Properties**.
 - Source cannot be removed.
-- selected source still cannot be highlighted in 3D-window.
+- Selected source still cannot be highlighted in 3D-window.
 - By clicking on **Properties** button: 
 	- when only objects are selected, the **Object Properties** dialog shows;
 	- when only sources are selected, the **Source Properties** dialog shows;
