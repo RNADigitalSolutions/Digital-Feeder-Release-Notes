@@ -1,6 +1,6 @@
 # Release Notes
 
-## 02.09.2020 (incomplete version)
+## ✨ 02.09.2020 (incomplete version)
 
 ### New features
 
@@ -25,7 +25,7 @@ This version is incomplete. The following features are still under heavy constru
 	- removing source,
 	- parameterizing source.
 
-## 19.07.2020
+## ✨ 19.07.2020
 
 ###  Improvements
 
@@ -36,7 +36,7 @@ This version is incomplete. The following features are still under heavy constru
 - Failure when setting color of sevaral objects parallelly.
 - Failure when turning object from static to kinematic.
 
-## 07.07.2020
+## ✨ 07.07.2020
 
 ### New features
 
@@ -50,7 +50,7 @@ This version is incomplete. The following features are still under heavy constru
 
 - Crash when loading ASCII `stl` file.
 
-## 16.06.2020
+## ✨ 16.06.2020
 
 ### New features:
 
