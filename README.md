@@ -21,9 +21,10 @@
 This version is incomplete. The following features are still under heavy construction and will be done in next releases:
 
 - **Stop** button: it does not work properly (again).
-- Editing source from **Source Properties**:
+- source is still not editable from **Source Properties**, such as:
 	- removing source,
 	- parameterizing source.
+- selected source still cannot be highlighted in 3D-window.
 
 ## ✨ 19.07.2020
 
