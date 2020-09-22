@@ -1,5 +1,29 @@
 # Release Notes
 
+## ✨ 22.09.2020
+
+### New features
+
+- **Search bar**: search objects and sources by name (shortcut <kbd>Ctrl</kbd>+<kbd>F</kbd>).
+![](img/searchbar.png)
+- Transformation: when importing an `stl` file, user can choose to import it as a tooling or feeding part:
+	- As tooling: the object can only be set to static or kinemaic,
+	- As feeding part: origin of the coordinate system of the object will be moved to the center of mass.
+- Source Properties: source can be parameterized now.
+- Remove source, at the same time all child objects of the source will be removed as well.
+- 
+
+
+
+### Improvements
+
+- Highlight selected source.
+- Save button on tool bar.
+- 
+
+### 
+
+
 ## ✨ 02.09.2020 (incomplete version)
 
 ### New features
