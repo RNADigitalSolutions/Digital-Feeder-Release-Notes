@@ -19,6 +19,8 @@
 
 - Highlight selected source.
 - Save button on tool bar.
+- By source generated objects are named with number.
+- Source is shown as bold and yellow in tree view, to make it more obvious.
 
 
 
