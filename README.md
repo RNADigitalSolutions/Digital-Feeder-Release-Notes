@@ -1,5 +1,8 @@
 # Release Notes
 
+## ✨ 23.10.2020
+<div class="date"><span>September 1, 2020</span></div>
+
 ## ✨ 22.09.2020
 
 ### **Attention**
