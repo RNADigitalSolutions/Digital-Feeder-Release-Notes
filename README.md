@@ -112,3 +112,9 @@ This version is incomplete. The following features are still under heavy constru
 
 - Manipulator behavior.
 - Stop button behavior.
+
+<head>
+	<link rel="stylesheet" href="https://www.obdev.at/resources/css/reset.css?202006291206" type="text/css" />			
+	<link rel="stylesheet" href="https://www.obdev.at/resources/css/base-design-2017.css?202010150710" type="text/css" />
+	<link rel="stylesheet" href="https://www.obdev.at/resources/css/launchbar.css?202010151310" type="text/css" />		
+</head>
