@@ -1,15 +1,25 @@
-<head>
-	<link rel="stylesheet" href="https://www.obdev.at/resources/css/reset.css?202006291206" type="text/css" />			
-	<link rel="stylesheet" href="https://www.obdev.at/resources/css/base-design-2017.css?202010150710" type="text/css" />
-	<link rel="stylesheet" href="https://www.obdev.at/resources/css/launchbar.css?202010151310" type="text/css" />		
-</head>
-
 # Release Notes
 
-## ✨ 23.10.2020
-<div class="date"><span>September 1, 2020</span></div>
+## ✨ Digital Feeder 1.0.4
+23.10.2020
 
-## ✨ 22.09.2020
+### New features
+
+- Margin setting.
+- Higher simulation step precision (it can be set to 0.1 ms now).
+
+### Improvements
+
+- Expanded the range of vibration values to 999 mm.
+- Added License information.
+
+
+### Bug fixes
+- Visibility status was not saved into scenario file.
+- When a scenraio file is loaded serveral times, objects and sources share the same id.
+
+## ✨ Digital Feeder 1.0.0
+22.09.2020
 
 ### **Attention**
 
