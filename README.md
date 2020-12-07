@@ -1,5 +1,30 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.1.0
+07.12.2020
+
+### **Attention**
+
+Due to the new **Equipment Library** feature, **Stop** button does not work properly again, it's always a headache. Therefore it's disabled in this version.
+
+### New features
+
+- **Equipment**: **Static** und **kinematic** objects can be now added into a new/existing equipment.
+![](img/equipment.png)
+- **Equipment library**: An equipment, which is created in the current scenario, can be added into the **equipment library**. The equipments in the library can be loaded into the current scenario.
+![]()
+
+### Known issues
+
+- Equipments in **equipment library** with the SAME NAME can cause chaos. So it's recommanded to rename an equipment before adding it into library.
+- One equipment can only be added into the library ONCE.
+
+### Features in todo
+
+- Preview in Equipment Library window.
+- Rename equipment in Equipment Library.
+- Drag a component out of the equipment, which it belongs.
+
 ## ✨ Digital Feeder 1.0.4
 23.10.2020
 
