@@ -1,6 +1,7 @@
 # Release Notes
 
-## ✨ Digital Feeder 1.1.0 <sub>07.12.2020</sub>
+## ✨ Digital Feeder 1.1.0 
+07.12.2020
 
 
 ### **Attention**
