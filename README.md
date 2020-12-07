@@ -19,12 +19,20 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 
 - Equipments in **equipment library** with the SAME NAME can cause chaos. So it's recommanded to rename an equipment before adding it into library.
 - One equipment can only be added into the library ONCE.
+- Equipment cannot be rotated.
 
 ### Features in todo
 
+- Solve above issues.
 - Preview in Equipment Library window.
 - Rename equipment in Equipment Library.
 - Drag a component out of the equipment, which it belongs.
+
+### Improvements
+
+- Replaced GPL-licensed library `tarlib` with BSD-licensed library `libarchive`, which is also more powerful and stable.
+- Removed GPL-licensed library `qcustomplot` and its related feature `Plot Motion`.
+
 
 ## ✨ Digital Feeder 1.0.4
 23.10.2020
