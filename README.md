@@ -5,7 +5,7 @@
 
 ### **Attention**
 
-Due to the new **Equipment Library** feature, **Stop** button does not work properly again, it's always a headache 🤯. Therefore it's **temporarily** disabled in this version.
+Due to the new **Equipment Library** feature, **Stop** button does not work properly again, it's always a headache. Therefore it's **temporarily** disabled in this version.
 
 ### New features
 
