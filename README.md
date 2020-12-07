@@ -1,11 +1,11 @@
 # Release Notes
 
-## ✨ Digital Feeder 1.1.0
-07.12.2020
+## ✨ Digital Feeder 1.1.0 <sub>07.12.2020</sub>
+
 
 ### **Attention**
 
-Due to the new **Equipment Library** feature, **Stop** button does not work properly again, it's always a headache. Therefore it's **temporarily** disabled in this version.
+Due to the new **Equipment** feature, **Stop** button does not work properly again, it's always a headache. Therefore it's **temporarily** disabled in this version.
 
 ### New features
 
