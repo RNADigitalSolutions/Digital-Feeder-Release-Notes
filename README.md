@@ -5,14 +5,14 @@
 
 ### **Attention**
 
-Due to the new **Equipment Library** feature, **Stop** button does not work properly again, it's always a headache. Therefore it's disabled in this version.
+Due to the new **Equipment Library** feature, **Stop** button does not work properly again, it's always a headache 🤯. Therefore it's **temporarily** disabled in this version.
 
 ### New features
 
 - **Equipment**: **Static** und **kinematic** objects can be now added into a new/existing equipment.
 ![](img/equipment.png)
-- **Equipment library**: An equipment, which is created in the current scenario, can be added into the **equipment library**. The equipments in the library can be loaded into the current scenario.
-![]()
+- **Equipment library**: An equipment in the current scenario can be added into the equipment library. The equipments in the library can be loaded into the current scenario.
+![](img/equipment_library.png)
 
 ### Known issues
 
