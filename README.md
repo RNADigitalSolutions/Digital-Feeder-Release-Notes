@@ -1,5 +1,23 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.1.1 
+xx.12.2020
+
+### New features
+
+- Setting to automatically remove objects that are vertically positioned below a specific point during the simulation.
+![](img/autoRemove.png)
+
+
+### Improvements
+
+- Values in settings dialog are saved in Windows Registry. 
+- Reset settings to default values.
+
+### Bug fixes
+
+- Corrected Upper limit of generated objects shown in source properties dialog from 99 to 999999999.
+
 ## ✨ Digital Feeder 1.1.0 
 07.12.2020
 
