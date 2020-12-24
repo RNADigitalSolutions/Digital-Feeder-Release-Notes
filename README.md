@@ -1,11 +1,12 @@
 # Release Notes
 
-## ✨ Digital Feeder 1.1.1 
-xx.12.2020
+## ✨ Digital Feeder 1.2.0 
+25.12.2020 Merry Christmas
 
 ### New features
 
 - Simplification: bounding box, cylinder & sphere.
+	- Auto-selection of the most suitable bounding shape when simplifing the custom object.
 - Inclined vibration: when an object is not rotated or rotated only around one axis, it can be set with an inclined vibration: it's only necessary to input the amplitude in the inclinde direction, the direction along the axises with be automatically calculated. (If it's not rotated, the vibration is set along the z axis.)
 - Setting to automatically remove objects that are vertically positioned below a specific point during the simulation.
 ![](img/autoRemove.png)
