@@ -1,5 +1,30 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.2.0 
+25.12.2020 Merry Christmas
+
+### New features
+
+- Simplification: bounding box, cylinder & sphere.
+	- Auto-selection of the most suitable bounding shape when simplifing the custom object.
+- Inclined vibration: when an object is not rotated or rotated only around one axis, it can be set with an inclined vibration: it's only necessary to input the amplitude in the inclinde direction, the direction along the axises with be automatically calculated. (If it's not rotated, the vibration is set along the z axis.)
+- Setting to automatically remove objects that are vertically positioned below a specific point during the simulation.
+![](img/autoRemove.png)
+
+
+### Improvements
+
+- Shared collsion shape data:
+	1. saves CPU. the collsion shape data is calculated ONCE when a custom object is loaded from stl file. The data will not be recalculated again when this custom obj is cloned.
+	2. saves RAM. collision shape data is saved only ONCE in RAM for all custom objects from the same source stl file.
+- Values in settings dialog are saved in Windows Registry. 
+- Reset settings to default values.
+- Remove the unfinished material settings from object properties dialog.
+
+### Bug fixes
+
+- Corrected Upper limit of generated objects shown in source properties dialog from 99 to 999999999.
+
 ## ✨ Digital Feeder 1.1.0 
 07.12.2020
 
