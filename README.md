@@ -1,5 +1,18 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.2.1
+
+### Improvements
+
+- Maximize window after start.
+- New icons.
+- Equipment button on tool bar.
+- Bigger default width of object list.
+
+### Bug fixes
+
+- Neutral point of vibration is shiftet after pausing simulation.
+
 ## ✨ Digital Feeder 1.2.0 
 25.12.2020 Merry Christmas
 
