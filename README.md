@@ -1,5 +1,12 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.2.3
+20.01.2021
+
+### Bug fixes
+
+- Position is unproperly set after stop and restart
+
 ## ✨ Digital Feeder 1.2.2
 20.01.2021
 
