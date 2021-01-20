@@ -1,6 +1,17 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.2.2
+20.01.2021
+
+### Bug fixes
+
+- Time is not reset once stopped.
+- Generated part count of source is not reset once stopped, which may cause source stop generating parts after restarted.
+- `dfs` file with object with modified margin value cannot be loaded.
+- About window may cause crash.
+
 ## ✨ Digital Feeder 1.2.1
+11.01.2021
 
 ### Improvements
 
