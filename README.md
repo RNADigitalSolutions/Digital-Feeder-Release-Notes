@@ -1,5 +1,15 @@
 # Release Notes
 
+## ✨ Digital Feeder 1.2.4
+24.01.2021
+
+### Bug fixes
+
+- Kinematic does not go back to neutral location after simulation stops.
+- Object states cannot be reset properly after simulatin stops.
+- Limit of duplicated source cannot be copied.
+
+
 ## ✨ Digital Feeder 1.2.3
 20.01.2021
 
