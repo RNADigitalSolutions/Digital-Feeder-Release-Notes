@@ -1,5 +1,3 @@
-# Release Notes
-
 ## ✨ Digital Feeder 1.2.4
 24.01.2021
 
@@ -50,6 +48,7 @@
 	- Auto-selection of the most suitable bounding shape when simplifing the custom object.
 - Inclined vibration: when an object is not rotated or rotated only around one axis, it can be set with an inclined vibration: it's only necessary to input the amplitude in the inclinde direction, the direction along the axises with be automatically calculated. (If it's not rotated, the vibration is set along the z axis.)
 - Setting to automatically remove objects that are vertically positioned below a specific point during the simulation.
+
 ![](img/autoRemove.png)
 
 
@@ -77,8 +76,11 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 ### New features
 
 - **Equipment**: **Static** und **kinematic** objects can be now added into a new/existing equipment.
+
 ![](img/equipment.png)
+
 - **Equipment library**: An equipment in the current scenario can be added into the equipment library. The equipments in the library can be loaded into the current scenario.
+
 ![](img/equipment_library.png)
 
 ### Known issues
@@ -129,7 +131,9 @@ Due to the new **transformation** function, this version may have problems loadi
 ### New features
 
 - **Search bar**: search objects and sources by name (shortcut <kbd>Ctrl</kbd>+<kbd>F</kbd>).
+
 ![](img/searchbar.png)
+
 - Transformation: when importing an `stl` file, user can choose to import it as a tooling or feeding part:
 	- As tooling: the object can only be set to static or kinemaic,
 	- As feeding part: origin of the coordinate system of the object will be moved to the center of mass.
@@ -211,6 +215,7 @@ This version is incomplete. The following features are still under heavy constru
 - Shortcut: double click middle button on object: Move camera to current selected object and set it as the camera focus center.
 - Motion flag (Dynamic/Static/Kinematic) for each object shown in object list.
 - Stop simulation: before the first run of the simulation, the scenario will be saved as the start scenario. When clicking the stop button, the scenario will be reset to the start scenario:
+
 ![](/img/stop_button.gif) 
 
 ###  Improvements
