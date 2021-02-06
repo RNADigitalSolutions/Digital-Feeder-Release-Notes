@@ -1,3 +1,5 @@
+# Release Notes
+
 ## ✨ Digital Feeder 1.2.4
 24.01.2021
 
