@@ -1,7 +1,5 @@
-## ✨ Digital Feeder 1.2.4
+## ✨ Digital Feeder 1.2.4 [<i class="fas fa-download"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
 24.01.2021
-
-[<i class="fas fa-download"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
 
 ### Bug fixes
 
