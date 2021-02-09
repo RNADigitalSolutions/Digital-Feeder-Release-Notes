@@ -1,5 +1,5 @@
-## ✨ Digital Feeder 1.2.4  &nbsp;[<i class="fas fa-download"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
-24.01.2021
+## ✨ Digital Feeder 1.2.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 24.01.2021
 
 ### Bug fixes
 
@@ -9,14 +9,14 @@
 
 
 ## ✨ Digital Feeder 1.2.3
-20.01.2021
+<i class="far fa-calendar-alt"></i> &nbsp; 20.01.2021
 
 ### Bug fixes
 
 - Position is unproperly set after stop and restart
 
 ## ✨ Digital Feeder 1.2.2
-20.01.2021
+<i class="far fa-calendar-alt"></i> &nbsp; 20.01.2021
 
 ### Bug fixes
 
@@ -26,7 +26,7 @@
 - About window may cause crash.
 
 ## ✨ Digital Feeder 1.2.1
-11.01.2021
+<i class="far fa-calendar-alt"></i> &nbsp; 11.01.2021
 
 ### Improvements
 
@@ -40,7 +40,7 @@
 - Neutral point of vibration is shiftet after pausing simulation.
 
 ## ✨ Digital Feeder 1.2.0 
-25.12.2020 Merry Christmas
+<i class="far fa-calendar-alt"></i> &nbsp; 25.12.2020 Merry Christmas
 
 ### New features
 
@@ -66,7 +66,7 @@
 - Corrected Upper limit of generated objects shown in source properties dialog from 99 to 999999999.
 
 ## ✨ Digital Feeder 1.1.0 
-07.12.2020
+<i class="far fa-calendar-alt"></i> &nbsp; 07.12.2020
 
 
 ### **Attention**
@@ -103,7 +103,7 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 
 
 ## ✨ Digital Feeder 1.0.4
-23.10.2020
+<i class="far fa-calendar-alt"></i> &nbsp; 23.10.2020
 
 ### New features
 
@@ -121,7 +121,7 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 - When a scenraio file is loaded serveral times, objects and sources share the same id.
 
 ## ✨ Digital Feeder 1.0.0
-22.09.2020
+<i class="far fa-calendar-alt"></i> &nbsp; 22.09.2020
 
 ### **Attention**
 
