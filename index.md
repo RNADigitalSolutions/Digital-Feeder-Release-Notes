@@ -1,6 +1,8 @@
 ## ✨ Digital Feeder 1.2.4
 24.01.2021
 
+[Download](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
+
 ### Bug fixes
 
 - Kinematic does not go back to neutral location after simulation stops.
