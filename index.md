@@ -1,7 +1,7 @@
 ## ✨ Digital Feeder 1.2.4
 24.01.2021
 
-[Download](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
+[<i class="fas fa-download"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
 
 ### Bug fixes
 
@@ -236,3 +236,8 @@ This version is incomplete. The following features are still under heavy constru
 - Manipulator behavior.
 - Stop button behavior.
 
+
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/v4-shims.css">
+</head>
