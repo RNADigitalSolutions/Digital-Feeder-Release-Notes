@@ -1,3 +1,18 @@
+## ✨ Digital Feeder 1.3.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.0/Digital_Feeder_1.3.0.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 26.02.2021
+
+### New features
+- New simplification type: **basic shape assembly**.
+- Add **default material** menu into *Physical Properties* dialog window.
+- Add **default kinematic** menu into *Physical Properties* dialog window.
+- **Reset** button to remove everything from the scenario.
+
+### Improvements
+- Zoom in&out with scroll wheel without moving the camera focus point.
+- Update Bullet engine to 3.08
+- Simplification preview improved.
+
+
 ## ✨ Digital Feeder 1.2.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 24.01.2021
 
