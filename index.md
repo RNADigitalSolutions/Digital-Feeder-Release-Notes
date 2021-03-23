@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.3.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.1/Digital_Feeder_1.3.1.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 23.03.2021
+
+### Bug fix
+- Calculate the vibration with kinematic parameters as second rotation (using quaternion multiplication), instead of as the superposition of the first rotation (addition).
+
 ## ✨ Digital Feeder 1.3.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.0/Digital_Feeder_1.3.0.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 26.02.2021
 
