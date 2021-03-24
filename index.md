@@ -1,3 +1,12 @@
+## ✨ Digital Feeder 1.3.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.3/Digital_Feeder_1.3.3.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 24.03.2021
+
+### New features
+- Save/load BSA json file
+
+### Bug fix
+- Moved origin of coordinate system from center of bounding box to center of mass of the object
+
 ## ✨ Digital Feeder 1.3.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.2/Digital_Feeder_1.3.2.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 24.03.2021
 
