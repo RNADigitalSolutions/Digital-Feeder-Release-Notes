@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.3.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.2/Digital_Feeder_1.3.2.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 24.03.2021
+
+### New features
+- Show/hide original collision shape in simplification dialog
+
 ## ✨ Digital Feeder 1.3.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.1/Digital_Feeder_1.3.1.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.03.2021
 
