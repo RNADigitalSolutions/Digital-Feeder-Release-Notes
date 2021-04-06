@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.3.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.5/Digital_Feeder_1.3.5.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 06.04.2021
+
+### New feature
+- License system.
+
 ## ✨ Digital Feeder 1.3.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.4/Digital_Feeder_1.3.4.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 25.03.2021
 
