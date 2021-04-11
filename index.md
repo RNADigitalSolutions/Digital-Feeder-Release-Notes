@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.3.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.6/Digital_Feeder_1.3.6.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 11.04.2021
+
+### New feature
+- Factor value for default kinematic parameters.
+
 ## ✨ Digital Feeder 1.3.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.5/Digital_Feeder_1.3.5.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 06.04.2021
 
