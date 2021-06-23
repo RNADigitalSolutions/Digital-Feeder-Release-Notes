@@ -9,6 +9,7 @@
 - Initial margin of a custom object can be read now
 - Waiting-popups while loading and saving `.dfs` files
 - Better memory management: Simulation and rendering consume less memory.
+- Setting tab for vibration rearranged.
 
 
 ## ✨ Digital Feeder 1.3.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.3.6.zip)
