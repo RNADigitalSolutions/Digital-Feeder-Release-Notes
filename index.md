@@ -1,3 +1,15 @@
+## ✨ Digital Feeder 1.4.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.4.1/Digital_Feeder_1.4.1.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 23.06.2021
+
+### Major changes
+This version of Digital Feeder has been upgraded to a multithreading structure with many backend improvements. Multithreading gives Digital Feeder more possibilities for further development of many other new features in the future, such as animation pausing/replaying, GUI switching (GUIs built with modern technologies), simulation speed optimisation, upgrade to web app etc..
+
+### Improvements
+- Initial margin of a custom object can be read now
+- Waiting-popups while loading and saving `.dfs` files
+- Better memory management: Simulation and rendering consume less memory.
+- Better object structure, which makes the further development easier, such as adding new kinematic motion types, e.g. impuls.
+
 ## ✨ Digital Feeder 1.3.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.3.6.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 11.04.2021
 
