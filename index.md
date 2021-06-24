@@ -8,6 +8,7 @@
 ### Improvements
 - Initial margin of a custom object can be read now
 - Waiting-popups while loading and saving `.dfs` files
+- The position and angle of an object are displayed in the manipulator in real time during simulation 
 - Better memory management: Simulation and rendering consume less memory.
 - Setting tab for vibration rearranged.
 
