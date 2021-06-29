@@ -1,3 +1,18 @@
+## ✨ Digital Feeder 1.4.2  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
+<i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
+
+### New features
+- Kinematic impuls.
+
+### Improvements
+- Waiting cursor shows when waiting popup is showing
+- Version info is saved in `.dfs` file
+
+### Bug fixes
+- Empty animation will be not skipped now.
+- Animation didn't run properly after stop sometimes.
+- Crash when reset or stop simulation.
+
 ## ✨ Digital Feeder 1.4.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.1.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.06.2021
 
