@@ -1,3 +1,12 @@
+## ✨ Digital Feeder 1.4.2.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.2.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
+
+### Improvements
+- Diagram for kinematic impuls
+
+### Bug fixes
+- Rotational vibration didn't run properly.
+
 ## ✨ Digital Feeder 1.4.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
 
