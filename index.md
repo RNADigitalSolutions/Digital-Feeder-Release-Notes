@@ -1,3 +1,14 @@
+## ✨ Digital Feeder 1.4.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.3.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.07.2021
+
+### New Features
+- Shift bsa via center of mass of a custom feeding part
+- Visibility states in treeview
+
+### Improvements
+- Load bsa json file as equipment with immaterial components
+
+
 ## ✨ Digital Feeder 1.4.2.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.2.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
 
