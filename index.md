@@ -5,7 +5,7 @@
 
 - More precise control via Manipulator:
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down): single step = 1,
-	- Key page-up/-down or key up/down with ctrl hold: single step = 10,
+	- Key <kbd>Page Up</kbd>/<kbd>Page Down</kbd> or key <kbd>↑</kbd>/<kbd>↓</kbd> with <kbd>Ctrl</kbd> hold: single step = 10,
 	- Key up/down (or wheel up/down) with shift hold: single step = 0.001,
 	- Key page-up/-down with shift hold: single step = 0.01,
 	- Key up/down (or wheel up/down) with shift and ctrl hold: single step = 0.01,
