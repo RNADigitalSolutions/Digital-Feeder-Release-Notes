@@ -1,3 +1,15 @@
+## ✨ Digital Feeder 1.4.4  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
+<i class="far fa-calendar-alt"></i> &nbsp; xx.07.2021
+
+### New Features
+
+- More precise control via Manipulator:
+	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down): single step = 1,
+	- Key page-up/-down or key up/down with ctrl hold: single step = 10,
+	- Key up/down (or wheel up/down) with shift hold: single step = 0.001,
+	- Key page-up/-down with shift hold: single step = 0.01,
+	- Key up/down (or wheel up/down) with shift and ctrl hold: single step = 0.01,
+
 ## ✨ Digital Feeder 1.4.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.3.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 08.07.2021
 
