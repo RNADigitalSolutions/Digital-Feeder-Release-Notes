@@ -1,14 +1,18 @@
-## ✨ Digital Feeder 1.4.4  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
-<i class="far fa-calendar-alt"></i> &nbsp; xx.07.2021
+## ✨ Digital Feeder 1.4.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.4.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 13.07.2021
 
 ### New Features
 
+- Sink to remove objects periodically
 - More precise control via Manipulator:
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down): single step = 1,
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> with <kbd>Ctrl</kbd> hold or key <kbd>Page Up</kbd>/<kbd>Page Down</kbd>: single step = 10,
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down) with <kbd>Shift</kbd> hold: single step = 0.001,
 	- Key <kbd>Page Up</kbd>/<kbd>Page Down</kbd> with <kbd>Shift</kbd> hold: single step = 0.01,
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down) with <kbd>Shift</kbd> and <kbd>Ctrl</kbd> hold: single step = 0.01
+
+### Improvement
+- Represent bounding sphere with spherical polyhedron
 
 ## ✨ Digital Feeder 1.4.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.3.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 08.07.2021
