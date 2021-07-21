@@ -1,3 +1,10 @@
+## ✨ Digital Feeder 1.4.5.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.1.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
+
+### Bug fixes
+- Fixed crash when loading corrupted or non-standard format `.stl` format
+- Fixed crash when loading corrupted `.dfs`
+
 ## ✨ Digital Feeder 1.4.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
 
