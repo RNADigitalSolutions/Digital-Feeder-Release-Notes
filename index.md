@@ -1,3 +1,19 @@
+## ✨ Digital Feeder 1.4.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
+
+### New Features
+
+- Timer sink
+- Export custom object as binary `.stl` file
+
+### Improvements
+
+- Save `.stl` as binary file in `.dfs` file
+- Reduced `.dfs` file size by reducing `.stl` and `.json`
+- Only remove dynamic objects under minimum z
+- Improved thread safety
+
+
 ## ✨ Digital Feeder 1.4.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.4.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 13.07.2021
 
