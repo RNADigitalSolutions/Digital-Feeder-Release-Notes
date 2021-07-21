@@ -5,6 +5,7 @@
 
 - Timer sink
 - Export custom object as binary `.stl` file
+- Control camera per infinite mouse drag
 
 ### Improvements
 
