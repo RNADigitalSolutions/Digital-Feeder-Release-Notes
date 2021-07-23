@@ -1,3 +1,12 @@
+## ✨ Digital Feeder 1.4.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.6.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 23.07.2021
+
+### New Feature
+- Source's core object properties dialog
+
+### Bug fixes
+- New created object's bullet rotation was not updated in time after setting rotation
+
 ## ✨ Digital Feeder 1.4.5.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.1.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
 
