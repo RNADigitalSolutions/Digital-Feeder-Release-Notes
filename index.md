@@ -1,3 +1,15 @@
+## ✨ Digital Feeder 1.4.7  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.4.7/setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 29.07.2021
+
+### New Feature
+- New primitive object: cone
+
+### Improvement
+- Added end-user license agreement
+
+### Bug fix
+- fixed: The BSA json created by 1.4.6 could not be loaded properly
+
 ## ✨ Digital Feeder 1.4.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.6.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.07.2021
 
