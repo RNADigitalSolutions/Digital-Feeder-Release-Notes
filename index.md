@@ -1,3 +1,14 @@
+## ✨ Digital Feeder 1.5.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.5.0/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 25.08.2021
+
+### New Feature
+- New simplification type: convex decomposition (V-HACD)
+
+### Improvement
+- BSA parts are colored now in simplification preview
+
+
+
 ## ✨ Digital Feeder 1.4.8  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.4.8/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 09.08.2021
 
