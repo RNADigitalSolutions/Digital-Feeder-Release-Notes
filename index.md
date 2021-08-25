@@ -3,6 +3,7 @@
 
 ### New Feature
 - New simplification type: convex decomposition (V-HACD)
+- **Compare** button for simplification preview
 
 ### Improvement
 - BSA parts are colored now in simplification preview
