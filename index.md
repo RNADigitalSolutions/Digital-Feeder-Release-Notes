@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.6.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.6.0/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 20.09.2021
+
+### New Feature
+- New object: compressed air
+
 ## ✨ Digital Feeder 1.5.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.5.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 25.08.2021
 
