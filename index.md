@@ -1,3 +1,20 @@
+## ✨ Digital Feeder 1.7.0  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
+<i class="far fa-calendar-alt"></i> &nbsp; xx.10.2021
+
+### New Features
+- Resize primitive object
+- Zoom Speed controller
+
+### Improvement
+- new design of tool bar
+- Compressed airs are shown colored und bold in object list
+- Change hotkey Shift from third digit after comma to one digit after comma, it works in most decimal spinboxes
+- Show colored square as icon of color selecting button in Properties dialog
+
+### Bug fixes
+- Support filename with german umlauts and some other special characters
+
+
 ## ✨ Digital Feeder 1.6.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.6.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 20.09.2021
 
