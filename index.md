@@ -8,7 +8,7 @@
 
 ### Improvement
 - New design of tool bar
-- Change hotkey Shift from third digit after comma to one digit after comma, it works in most decimal spinboxes
+- Change hotkey <kbd>Shift</kbd> from third digit after comma to one digit after comma, it works in most decimal spinboxes
 - Remember last used filename
 - Show compressed air colored und bold in object list
 - Show colored square as icon of color selecting button in Properties dialog
