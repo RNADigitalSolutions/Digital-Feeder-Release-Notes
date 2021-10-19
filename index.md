@@ -1,3 +1,12 @@
+## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
+<i class="far fa-calendar-alt"></i> &nbsp; xx.10.2021
+
+### Improvement
+- Show size of bounding shapes in simplification tab
+
+### Bug fix
+- Highlight color of selected object vanishes when simulation is stopped
+
 ## ✨ Digital Feeder 1.7.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 12.10.2021
 
@@ -6,14 +15,14 @@
 - Orthographic view
 - Zoom Speed controller
 
-### Improvement
+### Improvements
 - New design of tool bar
 - Change hotkey <kbd>Shift</kbd> from third digit after comma to one digit after comma, it works in most decimal spinboxes
 - Remember last used filename
 - Show compressed air colored und bold in object list
 - Show colored square as icon of color selecting button in Properties dialog
 
-### Bug fixes
+### Bug fix
 - Support filename with german umlauts and some other special characters
 
 
@@ -26,7 +35,7 @@
 ## ✨ Digital Feeder 1.5.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.5.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 25.08.2021
 
-### New Feature
+### New Features
 - New simplification type: convex decomposition (V-HACD)
 - **Compare** button for simplification preview
 
