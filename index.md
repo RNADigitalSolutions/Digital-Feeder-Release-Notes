@@ -1,3 +1,14 @@
+## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 21.10.2021
+
+### Improvements
+- Dynamic force for compressed air 
+- Show size of bounding shapes in simplification tab
+
+### Fixes
+- Fixed: BSA `.json` file cannot be saved into `.dfs` file in Version 1.7.0
+- Fixed: Highlight color of selected object vanishes when simulation is stopped
+
 ## ✨ Digital Feeder 1.7.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 12.10.2021
 
@@ -6,14 +17,14 @@
 - Orthographic view
 - Zoom Speed controller
 
-### Improvement
+### Improvements
 - New design of tool bar
 - Change hotkey <kbd>Shift</kbd> from third digit after comma to one digit after comma, it works in most decimal spinboxes
 - Remember last used filename
 - Show compressed air colored und bold in object list
 - Show colored square as icon of color selecting button in Properties dialog
 
-### Bug fixes
+### Fix
 - Support filename with german umlauts and some other special characters
 
 
@@ -26,7 +37,7 @@
 ## ✨ Digital Feeder 1.5.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.5.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 25.08.2021
 
-### New Feature
+### New Features
 - New simplification type: convex decomposition (V-HACD)
 - **Compare** button for simplification preview
 
@@ -50,8 +61,8 @@
 ### Improvement
 - Added end-user license agreement
 
-### Bug fix
-- fixed: The BSA json created by 1.4.6 could not be loaded properly
+### Fix
+- Fixed: the BSA json created by 1.4.6 could not be loaded properly
 
 ## ✨ Digital Feeder 1.4.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.6.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.07.2021
@@ -59,13 +70,13 @@
 ### New Feature
 - Source's core object properties dialog
 
-### Bug fixes
+### Fixes
 - New created object's bullet rotation was not updated in time after setting rotation
 
 ## ✨ Digital Feeder 1.4.5.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.1.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
 
-### Bug fixes
+### Fixes
 - Fixed crash when loading corrupted or non-standard format `.stl` format
 - Fixed crash when loading corrupted `.dfs`
 
@@ -119,7 +130,7 @@
 ### Improvements
 - Diagram for kinematic impuls
 
-### Bug fixes
+### Fixes
 - Rotational vibration didn't run properly.
 
 ## ✨ Digital Feeder 1.4.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.zip)
@@ -132,7 +143,7 @@
 - Waiting cursor shows when waiting popup is showing
 - Version info is saved in `.dfs` file
 
-### Bug fixes
+### Fixes
 - Empty animation will be not skipped now.
 - Animation didn't run properly after stop sometimes.
 - Crash when reset or stop simulation.
@@ -176,7 +187,7 @@
 ### New features
 - Save/load BSA json file
 
-### Bug fix
+### Fix
 - Moved origin of coordinate system from center of bounding box to center of mass of the object
 
 ## ✨ Digital Feeder 1.3.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.2/Digital_Feeder_1.3.2.zip)
@@ -188,7 +199,7 @@
 ## ✨ Digital Feeder 1.3.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.1/Digital_Feeder_1.3.1.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.03.2021
 
-### Bug fix
+### Fix
 - Calculate the vibration with kinematic parameters as second rotation (using quaternion multiplication), instead of as the superposition of the first rotation (addition).
 
 ## ✨ Digital Feeder 1.3.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.0/Digital_Feeder_1.3.0.zip)
@@ -209,7 +220,7 @@
 ## ✨ Digital Feeder 1.2.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 24.01.2021
 
-### Bug fixes
+### Fixes
 
 - Kinematic does not go back to neutral location after simulation stops.
 - Object states cannot be reset properly after simulatin stops.
@@ -219,14 +230,14 @@
 ## ✨ Digital Feeder 1.2.3
 <i class="far fa-calendar-alt"></i> &nbsp; 20.01.2021
 
-### Bug fixes
+### Fixes
 
 - Position is unproperly set after stop and restart
 
 ## ✨ Digital Feeder 1.2.2
 <i class="far fa-calendar-alt"></i> &nbsp; 20.01.2021
 
-### Bug fixes
+### Fixes
 
 - Time is not reset once stopped.
 - Generated part count of source is not reset once stopped, which may cause source stop generating parts after restarted.
@@ -243,7 +254,7 @@
 - Equipment button on tool bar.
 - Bigger default width of object list.
 
-### Bug fixes
+### Fixes
 
 - Neutral point of vibration is shiftet after pausing simulation.
 
@@ -269,7 +280,7 @@
 - Reset settings to default values.
 - Remove the unfinished material settings from object properties dialog.
 
-### Bug fixes
+### Fixes
 
 - Corrected Upper limit of generated objects shown in source properties dialog from 99 to 999999999.
 
@@ -324,7 +335,7 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 - Added License information.
 
 
-### Bug fixes
+### Fixes
 - Visibility status was not saved into scenario file.
 - When a scenraio file is loaded serveral times, objects and sources share the same id.
 
@@ -397,7 +408,7 @@ This version is incomplete. The following features are still under heavy constru
 
 - Greater camera far plane to render the objects far away from camera.
 
-### Bug fixes
+### Fixes
 
 - Failure when setting color of sevaral objects parallelly.
 - Failure when turning object from static to kinematic.
@@ -412,7 +423,7 @@ This version is incomplete. The following features are still under heavy constru
 - Open `.dfs` file directly with Digital Feeder.
 - Multi parameterization.
 
-### Bug fixes
+### Fixes
 
 - Crash when loading ASCII `stl` file.
 
@@ -437,7 +448,7 @@ This version is incomplete. The following features are still under heavy constru
 - The objects, which are cloned from the same part source, share the same bullet collision shape.
 
 
-### Bug fixes
+### Fixes
 
 - Manipulator behavior.
 - Stop button behavior.
