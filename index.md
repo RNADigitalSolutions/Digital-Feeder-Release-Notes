@@ -1,5 +1,5 @@
-## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
-<i class="far fa-calendar-alt"></i> &nbsp; xx.10.2021
+## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 21.10.2021
 
 ### Improvements
 - Dynamic force for compressed air 
