@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.7.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 29.10.2021
+
+### Fixes
+- Fixed: Casesensitivity caused error when saving `.STL` or `.JSON` in `.dfs`
+
 ## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 21.10.2021
 
