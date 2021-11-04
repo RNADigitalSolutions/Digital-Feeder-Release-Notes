@@ -1,8 +1,12 @@
-## ✨ Digital Feeder 1.7.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 29.10.2021
+## ✨ Digital Feeder 1.8.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.8.0/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 04.11.2021
+
+### New Feature
+- Analyser for average and median velocity of dynamic objects and high point
 
 ### Fixes
-- Fixed: Casesensitivity caused error when saving `.STL` or `.JSON` in `.dfs`
+- Fixed: casesensitivity caused error when saving `.STL` or `.JSON` in `.dfs`
+- Fixed: right click in 3D window may cause simulation to get stuck and fail to display context menu
 
 ## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 21.10.2021
@@ -13,7 +17,7 @@
 
 ### Fixes
 - Fixed: BSA `.json` file cannot be saved into `.dfs` file in Version 1.7.0
-- Fixed: Highlight color of selected object vanishes when simulation is stopped
+- Fixed: highlight color of selected object vanishes when simulation is stopped
 
 ## ✨ Digital Feeder 1.7.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 12.10.2021
