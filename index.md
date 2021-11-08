@@ -1,3 +1,16 @@
+## ✨ Digital Feeder 1.8.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.8.1/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.11.2021
+
+### New Feature
+- Measurement of the **position** in analyser
+
+### Improvement
+- Activate & deactivate every measurement in analyser
+- Smaller dimensions for primitive objects
+
+### Fixes
+- Fixed: crash when click **Properties** button in analyser status window after the analyser is deleted
+
 ## ✨ Digital Feeder 1.8.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.8.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 04.11.2021
 
