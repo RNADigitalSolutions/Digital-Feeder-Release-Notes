@@ -2,7 +2,7 @@
 <i class="far fa-calendar-alt"></i> &nbsp; 08.11.2021
 
 ### New Feature
-- Measurement of the **position** in analyser
+- Measurement of **position** in analyser
 
 ### Improvement
 - Activate & deactivate every measurement in analyser
