@@ -1,3 +1,13 @@
+## ✨ Digital Feeder 1.9.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.0/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 16.11.2021
+
+### New Feature
+- 3D manipulator
+- Unset source back to object
+
+### Improvement
+- Remove summation line on position chart in analyser status window
+
 ## ✨ Digital Feeder 1.8.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.8.1/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 08.11.2021
 
