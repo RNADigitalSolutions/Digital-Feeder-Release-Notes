@@ -1,3 +1,10 @@
+## ✨ Digital Feeder 1.9.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.1/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 18.11.2021
+
+### Fixes
+- Fixed: BSA `.json` file couldn't be saved into `.dfs` file
+- Fixed: the background color of preview in simplification tab was not displayed correctly
+
 ## ✨ Digital Feeder 1.9.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.0/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 16.11.2021
 
