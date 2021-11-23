@@ -4,6 +4,9 @@
 ### New Feature
 - Default source paramter in equipment
 
+### Improvement
+- Add licensing infomation for Dear ImGUI and OpenSSL in About window
+
 ### Fix
 - Fixed: crash when moving/rotating a source with 3D manipulator, if the source was converted from an object
 
