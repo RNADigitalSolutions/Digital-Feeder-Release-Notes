@@ -4,7 +4,7 @@
 ### Fixes
 - Fixed: crash when stopping simulation in version 1.9.0-1.9.2
 - Fixed: crash when deselecting objects in object list in version 1.9.0-1.9.2
-- Fixed: Crash when running on specific computers
+- Fixed: crash when running on specific computers
 
 ## ✨ Digital Feeder 1.9.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.2/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.11.2021
