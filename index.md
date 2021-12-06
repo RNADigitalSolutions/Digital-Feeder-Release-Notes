@@ -1,15 +1,21 @@
+## ✨ Digital Feeder 1.9.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.3/df_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 06.12.2021
+
+### Fixes
+- Fixed: crash when stopping simulation in version 1.9.0-1.9.2
+- Fixed: crash when deselecting objects in object list in version 1.9.0-1.9.2
+
 ## ✨ Digital Feeder 1.9.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.2/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.11.2021
 
 ### New Feature
 - Default source paramter in equipment
 
+### Improvement
+- Add licensing infomation for Dear ImGUI and OpenSSL in About window
+
 ### Fix
 - Fixed: crash when moving/rotating a source with 3D manipulator, if the source was converted from an object
-
-### Fixes
-- Fixed: BSA `.json` file couldn't be saved into `.dfs` file
-- Fixed: the background color of preview in simplification tab was not displayed correctly
 
 ## ✨ Digital Feeder 1.9.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.1/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 18.11.2021
