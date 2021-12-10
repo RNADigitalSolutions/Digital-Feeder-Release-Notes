@@ -1,3 +1,14 @@
+## ✨ Digital Feeder 1.9.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.4/df_1.9.4_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 10.12.2021
+
+### New Features
+- SolidWorks mode to pan, rotate and zoom view
+- Status window for velocity and postion of kinematic and dynamic object
+
+### Improvement
+- Always display coordinate values inside the chart in analyser status window
+
+
 ## ✨ Digital Feeder 1.9.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.3/df_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 06.12.2021
 
@@ -10,7 +21,7 @@
 <i class="far fa-calendar-alt"></i> &nbsp; 23.11.2021
 
 ### New Feature
-- Default source paramter in equipment
+- Default source parameters in equipment
 
 ### Improvement
 - Add licensing infomation for Dear ImGUI and OpenSSL in About window
