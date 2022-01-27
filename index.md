@@ -1,3 +1,19 @@
+## ✨ Digital Feeder 1.10.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.0/df_1.10.0_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 27.01.2022
+
+### New Feature
+- Animation speed controller
+
+### Improvements
+- Improved Animation performance
+- Outline for selected object
+- Display positive achse of world-KOS
+- Improved object material appearance
+
+### Fixes
+- Fixed: camera moved to distant position while pressing <kbd>ESC</kbd> button
+- Fixed: sink was shown in a wrong position after being resized
+
 ## ✨ Digital Feeder 1.9.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.4/df_1.9.4_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 10.12.2021
 
