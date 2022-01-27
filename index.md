@@ -5,7 +5,7 @@
 - Animation speed controller
 
 ### Improvements
-- Improved Animation performance
+- Improved animation performance
 - Outline for selected object
 - Display positive achse of world-KOS
 - Improved object material appearance
