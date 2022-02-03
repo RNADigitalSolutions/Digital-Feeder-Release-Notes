@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.10.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.2/df_1.10.2_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 04.02.2022
+
+### Fix
+- Fixed: Analyser status window caused freezing
+
 ## ✨ Digital Feeder 1.10.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.1/df_1.10.1_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 03.02.2022
 
