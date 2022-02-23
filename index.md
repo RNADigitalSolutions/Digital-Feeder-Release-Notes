@@ -1,3 +1,19 @@
+## ✨ Digital Feeder 1.10.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.4/df_1.10.4_setup.exe)
+<i class="far fa-calendar-alt"></i> &nbsp; 23.02.2022
+
+### New Feature
+- Camera dash board: control camera speed, position, view center and up vector, save and load camera states in .dfs file
+- <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> and <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to move camera
+- Bookmark: mark the scenario state, when simulation is stoped, the scenario will be reset to the marked state
+- Hover: camera moves around the view center
+
+
+### Improvements
+- Improved animation performance
+- Animated camera movement
+- Adjusted upper limit of camera look speed slider
+
+
 ## ✨ Digital Feeder 1.10.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.3/df_1.10.3_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 14.02.2022
 
