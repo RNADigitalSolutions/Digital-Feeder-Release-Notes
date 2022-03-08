@@ -4,6 +4,7 @@
 ### New Features
 - New simplification type: simplificated stl file
 - New simplification type: fast quadric mesh simplification
+- Equipment library
 - Show loaded dfs file on status bar
 
 
