@@ -1,3 +1,12 @@
+## ✨ Digital Feeder 1.10.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.5/df_1.10.5_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.03.2022
+
+### New Features
+- New simplification type: simplificated stl file
+- New simplification type: fast quadric mesh simplification
+- Show loaded dfs file on status bar
+
+
 ## ✨ Digital Feeder 1.10.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.4/df_1.10.4_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.02.2022
 
