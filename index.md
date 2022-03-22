@@ -1,5 +1,5 @@
-## ✨ Digital Feeder 1.10.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.6_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 21.03.2022
+## ✨ Digital Feeder 1.10.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.6.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 22.03.2022
 
 ### New Feature
 - New primitive object: hollow cylinder
