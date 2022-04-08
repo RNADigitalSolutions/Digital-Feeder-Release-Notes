@@ -3,7 +3,7 @@
 
 ### New Features
 - New primitive objects: torus and conical frustum
-- Sink Status (double click on sink)
+- Sink status (double click on sink)
 
 ### Improvements
 - Waiting window for loading large .stl file
