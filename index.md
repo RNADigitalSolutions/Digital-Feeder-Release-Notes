@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.10.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 19.04.2022
+
+### Fix
+- Fixed: sink causes freezing
+
 ## ✨ Digital Feeder 1.10.7  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 08.04.2022
 
