@@ -1,7 +1,46 @@
+## ✨ Digital Feeder 1.10.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 19.04.2022
+
+### Fix
+- Fixed: sink causes freezing
+
+## ✨ Digital Feeder 1.10.7  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.04.2022
+
+### New Features
+- New primitive objects: torus and conical frustum
+- Sink status (double click on sink)
+
+### Improvements
+- Waiting window for loading large .stl file
+- New icons on toolbar
+
+### Fixes
+- Fixed: could not save inclinde amplitude into .dfs file
+- Fixed: compressed air could not effect hollow cylinder
+- Fixed: could not display whole main window on some monitors because of large window height
+
+## ✨ Digital Feeder 1.10.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.6.1_setup.zip) 
+<i class="far fa-calendar-alt"></i> &nbsp; 22.03.2022 
+ 
+### New Feature 
+- New primitive object: hollow cylinder 
+
+
+## ✨ Digital Feeder 1.10.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.5_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.03.2022
+
+### New Features
+- New simplification type: simplificated stl file
+- New simplification type: fast quadric mesh simplification
+- Equipment library
+- Show loaded dfs file on status bar
+
+
 ## ✨ Digital Feeder 1.10.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.4/df_1.10.4_setup.exe)
 <i class="far fa-calendar-alt"></i> &nbsp; 23.02.2022
 
-### New Feature
+### New Features
 - Camera dash board: control camera speed, position, view center and up vector, save and load camera states in .dfs file
 - <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> and <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to move camera
 - Bookmark: mark the scenario state, when simulation is stoped, the scenario will be reset to the marked state
