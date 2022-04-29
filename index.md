@@ -5,7 +5,7 @@
 - Setting for grid size
 - Hide/Unhide menubar
 
-### Improvements
+### Improvement
 - Added progress bar in waiting window for loading .dfs file
 
 ### Fixes
