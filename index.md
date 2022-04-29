@@ -1,4 +1,4 @@
-## ✨ Digital Feeder 1.10.8  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
+## ✨ Digital Feeder 1.10.8  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 29.04.2022
 
 ### New Features
@@ -10,7 +10,7 @@
 
 ### Fixes
 - Fixed: could not display movement of kinematic object with impuls properly
-- Fixed: waiting window could be closed by pressing <kbd>Esc</kbd>> key
+- Fixed: waiting window could be closed by pressing <kbd>Esc</kbd> key
 - Fixed: waiting window appeared after clicking **Cancel** button in loading .stl dialog
 
 ## ✨ Digital Feeder 1.10.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7.1_setup.zip)
