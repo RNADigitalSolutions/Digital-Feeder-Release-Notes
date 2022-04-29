@@ -1,3 +1,18 @@
+## ✨ Digital Feeder 1.10.8  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 29.04.2022
+
+### New Features
+- Setting for grid size
+- Hide/Unhide menubar
+
+### Improvement
+- Added progress bar in waiting window for loading .dfs file
+
+### Fixes
+- Fixed: could not display movement of kinematic object with impuls properly
+- Fixed: waiting window could be closed by pressing <kbd>Esc</kbd> key
+- Fixed: waiting window appeared after clicking **Cancel** button in loading .stl dialog
+
 ## ✨ Digital Feeder 1.10.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 19.04.2022
 
@@ -627,5 +642,5 @@ This version is incomplete. The following features are still under heavy constru
 
 
 <head>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 </head>
