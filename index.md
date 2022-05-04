@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.10.8.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 01.05.2022
+
+### Fix
+- Fixed: waiting window didn't close sometimes after .stl file was loaded
+
 ## ✨ Digital Feeder 1.10.8  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 29.04.2022
 
