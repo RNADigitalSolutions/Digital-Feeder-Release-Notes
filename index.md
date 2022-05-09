@@ -1,3 +1,10 @@
+## ✨ Digital Feeder 1.10.9  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.9_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 09.05.2022
+
+### New Feature
+- Kinematic rotation
+
+
 ## ✨ Digital Feeder 1.10.8.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 01.05.2022
 
@@ -329,8 +336,8 @@
 ## ✨ Digital Feeder 1.4.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
 
-### New features
-- Kinematic impuls.
+### New feature
+- Kinematic impuls
 
 ### Improvements
 - Waiting cursor shows when waiting popup is showing
