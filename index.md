@@ -1,3 +1,10 @@
+## ✨ Digital Feeder 1.10.9.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.9.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 12.05.2022
+
+### Fix
+- Fixed: Could not display axes on some computer.
+
+
 ## ✨ Digital Feeder 1.10.9  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.9_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 09.05.2022
 
