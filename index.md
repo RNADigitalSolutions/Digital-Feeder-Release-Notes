@@ -1,3 +1,10 @@
+## ✨ Digital Feeder 1.10.10  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.10_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 27.05.2022
+
+### New Feature
+- New animated loading indicator 
+
+
 ## ✨ Digital Feeder 1.10.9.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.9.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 12.05.2022
 
