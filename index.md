@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.10.10.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.10.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.06.2022
+
+### Fix
+- Bug with conical frustum
+
 ## ✨ Digital Feeder 1.10.10  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.10_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 27.05.2022
 
