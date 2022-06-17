@@ -1,3 +1,17 @@
+## ✨ Digital Feeder 1.11.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.11.0_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 17.06.2022
+
+### New Feature
+- Drag and drop treeviewitems
+- Sort treeviewitems
+
+### Improvement
+- Added warning when trying to stop simulation
+
+### Fixes
+- Sink timer couldn't be saved properly
+
+
 ## ✨ Digital Feeder 1.10.10.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.10.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 08.06.2022
 
