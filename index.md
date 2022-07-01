@@ -1,14 +1,24 @@
+## ✨ Digital Feeder 1.11.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.11.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 01.07.2022
+
+### New Feature
+- Object tracking: Camera follows a specific feeding part, to make it easier to observe its behaviour.
+
+### Fixes
+- Margin value of custom object couldn't be loaded properly.
+- COM shift for BSA caused freezing.
+
 ## ✨ Digital Feeder 1.11.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.11.0_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 17.06.2022
 
-### New Feature
+### New Features
 - Drag and drop treeviewitems
 - Sort treeviewitems
 
 ### Improvement
 - Added warning when trying to stop simulation
 
-### Fixes
+### Fix
 - Sink timer couldn't be saved properly
 
 
