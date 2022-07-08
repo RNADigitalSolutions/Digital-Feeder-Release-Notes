@@ -1,3 +1,10 @@
+## ✨ Digital Feeder 1.12.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.12.0_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 08.07.2022
+
+### New Feature
+- Jammed objects detection: The dynamic objects (feeding parts), which get stuck in tooling or with each other, can be detected now. The detected object can be removed directly or marked in color.
+
+
 ## ✨ Digital Feeder 1.11.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.11.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 01.07.2022
 
