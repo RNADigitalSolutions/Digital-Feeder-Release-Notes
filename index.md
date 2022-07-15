@@ -1,3 +1,9 @@
+## ✨ Digital Feeder 1.12.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.12.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 15.07.2022
+
+### Fix
+- Crash when changing simplification of an object and then moving it.
+
 ## ✨ Digital Feeder 1.12.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.12.0_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 08.07.2022
 
