@@ -1,3 +1,16 @@
+## ✨ Digital Feeder 1.13.0  &nbsp;[<i class="fas fa-download fa-xs"></i>]()
+<i class="far fa-calendar-alt"></i> &nbsp; 25.08.2022
+
+### New Features
+- Circular analyser.
+- Average line for in analyser status window.
+
+### Improvement
+- Show current color of the selected object when color selection dialog opens.
+
+### Fix
+- Crash sometimes when resetting scene, which contains equipment and analyser/compressed air/sink. 
+
 ## ✨ Digital Feeder 1.12.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.12.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 15.07.2022
 
