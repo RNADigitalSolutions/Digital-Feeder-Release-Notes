@@ -1,3 +1,12 @@
+## ✨ Digital Feeder 1.14.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.0_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 30.09.2022
+
+### New Feature
+- Pattern.
+
+### Fix
+- Treeview could not display the loaded objects properly when loading a corrupt dfs file.
+
 ## ✨ Digital Feeder 1.13.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.13.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 25.09.2022
 
