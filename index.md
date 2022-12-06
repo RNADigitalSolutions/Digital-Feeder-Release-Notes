@@ -1,4 +1,4 @@
-## ✨ Digital Feeder 1.14.  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.1_setup.zip)
+## ✨ Digital Feeder 1.14.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 06.12.2022
 
 ### New Feature
