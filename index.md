@@ -1,3 +1,14 @@
+## ✨ Digital Feeder 1.14.  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.1_setup.zip)
+<i class="far fa-calendar-alt"></i> &nbsp; 06.12.2022
+
+### New Feature
+- Label icon in toolbar.
+
+### Improvements
+- Larger upper limit for dynamic force for compressed air,
+- Resized simulation speed slider and properties dialog window.
+
+
 ## ✨ Digital Feeder 1.14.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.0_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 30.09.2022
 
