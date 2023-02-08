@@ -1,3 +1,7 @@
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 1.6rem;font-weight: 400;font-family: "Open Sans", "Lucida Grande", sans-serif;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>November 7, 2022</span>
+</div>
+
 ## ✨ Digital Feeder 1.14.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.1_setup.zip)
 <i class="far fa-calendar-alt"></i> &nbsp; 06.12.2022
 
