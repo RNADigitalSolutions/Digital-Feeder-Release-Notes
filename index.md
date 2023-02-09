@@ -1,6 +1,7 @@
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
-  <span>t.b.a</span>
+  <span>01.02.2023</span>
 </div>
+
 
 ## Digital Feeder 2.0.5 Beta
 
@@ -28,8 +29,9 @@
 <p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
-  <span>t.b.a</span>
+  <span>25.01.2023</span>
 </div>
+
 
 ## Digital Feeder 2.0.4 Beta
 
