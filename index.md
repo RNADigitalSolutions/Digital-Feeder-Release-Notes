@@ -1,563 +1,1045 @@
-## ✨ Digital Feeder 1.14.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 06.12.2022
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>01.02.2023</span>
+</div>
 
-### New Feature
+
+## Digital Feeder 2.0.5 Beta
+
+### ✨ New feature
+
+- Option to turn off history mode for better simulation performance ( **Menubar** &#8594; **Simulation** &#8594; **Turn Off History Playback**).
+
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+
+- Notification after reserved Simulation finished.
+
+- New material data.
+
+<p>&nbsp;</p>
+
+### 🔧 Fixes
+
+- History log files missing in dfsx file.
+- A dfs/dfsx file could not be loaded properly sometimes when restarting the Digital Feeder immediately after closing it.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>25.01.2023</span>
+</div>
+
+
+## Digital Feeder 2.0.4 Beta
+
+### ✨ New features
+
+- Playback of simulation history.
+- Edit scene and restart simulation at any time point in history.
+- New file format `.dfsx` containing the simulation history.
+- Video recording: record video at real speed from 3D view.
+- Reservation: set a simulation timer, reserved actions will be executed automatically after timeout. Actions can be: save `.dfsx` file, send notification via Telegram Bot, record screen and shut down computer.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>06.12.2022</span>
+</div>
+##  Digital Feeder 1.14.1 
+
+### ✨ New Feature
 - Label icon in toolbar.
 
-### Improvements
-- Larger upper limit for dynamic force for compressed air,
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+- Larger upper limit for dynamic force for compressed air.
 - Resized simulation speed slider and properties dialog window.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.14.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.14.0_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 30.09.2022
+<p>&nbsp;</p>
 
-### New Feature
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>30.09.2022</span>
+</div>
+
+## Digital Feeder 1.14.0 
+
+### ✨ New Feature
 - Pattern.
 
-### Fix
+<p>&nbsp;</p>
+
+### 🔧 Fix
 - Treeview could not display the loaded objects properly when loading a corrupt dfs file.
 
-## ✨ Digital Feeder 1.13.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.13.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 25.09.2022
+<p>&nbsp;</p>
 
-### New Feature
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>25.09.2022</span>
+</div>
+
+## Digital Feeder 1.13.1
+
+### ✨ New Feature
 - Feeding parameters for vibration.
 
-## ✨ Digital Feeder 1.13.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.13.0_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 25.08.2022
+<p>&nbsp;</p>
 
-### New Features
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>25.08.2022</span>
+</div>
+
+## Digital Feeder 1.13.0
+
+### ✨ New Features
 - Circular analyser.
 - Average line for in analyser status window.
 
-### Improvement
+<p>&nbsp;</p>
+
+### 🚀 Improvement
 - Show current color of the selected object when color selection dialog opens.
 
-### Fix
-- Crash sometimes when resetting scene, which contains equipment and analyser/compressed air/sink. 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.12.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.12.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 15.07.2022
+### 🔧 Fix
+- Crash sometimes when resetting scene, which contains equipment and analyser/compressed air/sink.
 
-### Fix
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>15.07.2022</span>
+</div>
+
+## Digital Feeder 1.12.1
+
+### 🔧 Fix
 - Crash when changing simplification of an object and then moving it.
 
-## ✨ Digital Feeder 1.12.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.12.0_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 08.07.2022
+<p>&nbsp;</p>
 
-### New Feature
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>08.07.2022</span>
+</div>
+
+## Digital Feeder 1.12.0
+
+### ✨ New Feature
 - Jammed objects detection: The dynamic objects (feeding parts), which get stuck in tooling or with each other, can be detected now. The detected object can be removed directly or marked in color.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.11.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.11.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 01.07.2022
+<p>&nbsp;</p>
 
-### New Feature
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>01.07.2022</span>
+</div>
+
+## Digital Feeder 1.11.1
+
+### ✨ New Feature
 - Object tracking: Camera follows a specific feeding part, to make it easier to observe its behaviour.
 
-### Fixes
+<p>&nbsp;</p>
+
+### 🔧 Fixes
 - Margin value of custom object couldn't be loaded properly.
 - COM shift for BSA caused freezing.
 
-## ✨ Digital Feeder 1.11.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.11.0_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 17.06.2022
+<p>&nbsp;</p>
 
-### New Features
-- Drag and drop treeviewitems
-- Sort treeviewitems
+<p>&nbsp;</p>
 
-### Improvement
-- Added warning when trying to stop simulation
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>17.06.2022</span>
+</div>
 
-### Fix
-- Sink timer couldn't be saved properly
+## Digital Feeder 1.11.0
 
+### ✨ New Features
+- Drag and drop treeviewitems.
+- Sort treeviewitems.
 
-## ✨ Digital Feeder 1.10.10.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.10.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 08.06.2022
+<p>&nbsp;</p>
 
-### Fix
-- Bug with conical frustum
+### 🚀 Improvement
+- Added warning when trying to stop simulation.
 
-## ✨ Digital Feeder 1.10.10  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.10_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 27.05.2022
+<p>&nbsp;</p>
 
-### New Feature
-- New animated loading indicator 
+### 🔧 Fix
+- Sink timer couldn't be saved properly.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.9.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.9.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 12.05.2022
+<p>&nbsp;</p>
 
-### Fix
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>08.06.2022</span>
+</div>
+
+## Digital Feeder 1.10.10.1
+
+### 🔧 Fix
+- Bug with conical frustum.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>27.05.2022</span>
+</div>
+
+## Digital Feeder 1.10.10
+
+### ✨ New Feature
+- New animated loading indicator.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>12.05.2022</span>
+</div>
+
+## Digital Feeder 1.10.9.1
+
+### 🔧 Fix
 - Fixed: Could not display axes on some computer.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.9  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.9_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 09.05.2022
+<p>&nbsp;</p>
 
-### New Feature
-- Kinematic rotation
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>09.05.2022</span>
+</div>
 
+## Digital Feeder 1.10.9
 
-## ✨ Digital Feeder 1.10.8.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 01.05.2022
+### ✨ New Feature
+- Kinematic rotation.
 
-### Fix
-- Fixed: waiting window didn't close sometimes after .stl file was loaded
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.8  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.8_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 29.04.2022
+<p>&nbsp;</p>
 
-### New Features
-- Setting for grid size
-- Hide/Unhide menubar
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>01.05.2022</span>
+</div>
 
-### Improvement
-- Added progress bar in waiting window for loading .dfs file
+## Digital Feeder 1.10.8.1
 
-### Fixes
-- Fixed: could not display movement of kinematic object with impuls properly
-- Fixed: waiting window could be closed by pressing <kbd>Esc</kbd> key
-- Fixed: waiting window appeared after clicking **Cancel** button in loading .stl dialog
+### 🔧 Fix
+- Fixed: waiting window didn't close sometimes after `.stl` file was loaded.
 
-## ✨ Digital Feeder 1.10.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7.1_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 19.04.2022
+<p>&nbsp;</p>
 
-### Fix
-- Fixed: sink causes freezing
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.7  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.7_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 08.04.2022
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>29.04.2022</span>
+</div>
 
-### New Features
-- New primitive objects: torus and conical frustum
-- Sink status (double click on sink)
+## Digital Feeder 1.10.8
 
-### Improvements
-- Waiting window for loading large .stl file
-- New icons on toolbar
+### ✨ New Features
+- Setting for grid size.
+- Hide/Unhide menubar.
 
-### Fixes
-- Fixed: could not save inclinde amplitude into .dfs file
-- Fixed: compressed air could not effect hollow cylinder
-- Fixed: could not display whole main window on some monitors because of large window height
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.6.1_setup.zip) 
-<i class="far fa-calendar-alt"></i> &nbsp; 22.03.2022 
- 
-### New Feature 
-- New primitive object: hollow cylinder 
+### 🚀 Improvement
+- Added progress bar in waiting window for loading `.dfs` file.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer/df_1.10.5_setup.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 08.03.2022
+### 🔧 Fixes
+- Fixed: could not display movement of kinematic object with impuls properly.
+- Fixed: waiting window could be closed by pressing <kbd>Esc</kbd> key.
+- Fixed: waiting window appeared after clicking **Cancel** button in loading `.stl` dialog.
 
-### New Features
-- New simplification type: simplificated stl file
-- New simplification type: fast quadric mesh simplification
-- Equipment library
-- Show loaded dfs file on status bar
+<p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.4/df_1.10.4_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 23.02.2022
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>19.04.2022</span>
+</div>
 
-### New Features
-- Camera dash board: control camera speed, position, view center and up vector, save and load camera states in .dfs file
-- <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> and <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to move camera
-- Bookmark: mark the scenario state, when simulation is stoped, the scenario will be reset to the marked state
-- Hover: camera moves around the view center
+## Digital Feeder 1.10.7.1
 
+### 🔧 Fix
+- Fixed: sink causes freezing.
 
-### Improvements
-- Improved animation performance
-- Animated camera movement
-- Adjusted upper limit of camera look speed slider
+<p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.3/df_1.10.3_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 14.02.2022
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>08.04.2022</span>
+</div>
 
-### New Feature
-- Controller for camera look speed (turn rate of the camera pan and tilt)
+## Digital Feeder 1.10.7
 
-### Improvements
-- Improved animation performance
-- More secure license verification algorithm
+### ✨ New Features
+- New primitive objects: torus and conical frustum.
+- Sink status (double click on sink).
 
-### Fix
-- Fixed: duplicated kinematic object does not move properly because of wrong neutral position and angle
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.2/df_1.10.2_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 04.02.2022
+### 🚀 Improvements
+- Waiting window for loading large `.stl` file.
+- New icons on toolbar.
 
-### Fix
-- Fixed: analyser status window caused freezing
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.1/df_1.10.1_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 03.02.2022
+### 🔧 Fixes
+- Fixed: could not save inclinde amplitude into `.dfs` file.
+- Fixed: compressed air could not effect hollow cylinder.
+- Fixed: could not display whole main window on some monitors because of large window height.
 
-### New Features
-- Change background color
-- Enable/disable grids
+<p>&nbsp;</p>
 
-### Improvement
-- More obvious outline
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.10.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.10.0/df_1.10.0_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 27.01.2022
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>22.03.2022</span>
+</div>
 
-### New Feature
-- Animation speed controller
+## Digital Feeder 1.10.6 
 
-### Improvements
-- Improved animation performance
-- Outline for selected object
-- Display positive achse of world-KOS
-- Improved object material appearance
+### ✨ New Feature 
+- New primitive object: hollow cylinder.
 
-### Fixes
-- Fixed: camera moved to distant position while pressing <kbd>ESC</kbd> button
-- Fixed: sink was shown in a wrong position after being resized
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.9.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.4/df_1.9.4_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 10.12.2021
+<p>&nbsp;</p>
 
-### New Features
-- SolidWorks mode to pan, rotate and zoom view
-- Status window for velocity and postion of kinematic and dynamic object
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>08.03.2022</span>
+</div>
 
-### Improvement
-- Always display coordinate values inside the chart in analyser status window
+## Digital Feeder 1.10.5  
 
+### ✨ New Features
+- New simplification type: simplificated `.stl` file.
+- New simplification type: fast quadric mesh simplification.
+- Equipment library.
+- Show loaded dfs file on status bar.
 
-## ✨ Digital Feeder 1.9.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.3/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 06.12.2021
+<p>&nbsp;</p>
 
-### Fixes
-- Fixed: crash when stopping simulation in version 1.9.0-1.9.2
-- Fixed: crash when deselecting objects in object list in version 1.9.0-1.9.2
-- Fixed: crash when running on specific computers
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.9.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.2/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 23.11.2021
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>23.02.2022</span>
+</div>
 
-### New Feature
-- Default source parameters in equipment
+## Digital Feeder 1.10.4 
 
-### Improvement
-- Add licensing infomation for Dear ImGUI and OpenSSL in About window
+### ✨ New Features
+- Camera dash board: control camera speed, position, view center and up vector, save and load camera states in `.dfs` file.
+- <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> and <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> to move camera.
+- Bookmark: mark the scenario state, when simulation is stoped, the scenario will be reset to the marked state.
+- Hover: camera moves around the view center.
 
-### Fix
-- Fixed: crash when moving/rotating a source with 3D manipulator, if the source was converted from an object
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.9.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.1/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 18.11.2021
 
-### Fixes
-- Fixed: BSA `.json` file couldn't be saved into `.dfs` file
-- Fixed: the background color of preview in simplification tab was not displayed correctly
+### 🚀 Improvements
+- Improved animation performance.
+- Animated camera movement.
+- Adjusted upper limit of camera look speed slider.
 
-## ✨ Digital Feeder 1.9.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.9.0/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 16.11.2021
+<p>&nbsp;</p>
 
-### New Features
-- 3D manipulator
-- Unset source back to object
+<p>&nbsp;</p>
 
-### Improvement
-- Remove summation line on position chart in analyser status window
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>14.02.2022</span>
+</div>
 
-## ✨ Digital Feeder 1.8.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.8.1/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 08.11.2021
+## Digital Feeder 1.10.3  
 
-### New Feature
-- Measurement of **position** in analyser
+### ✨ New Feature
+- Controller for camera look speed (turn rate of the camera pan and tilt).
 
-### Improvement
-- Activate & deactivate every measurement in analyser
-- Smaller dimensions for primitive objects
+<p>&nbsp;</p>
 
-### Fixes
-- Fixed: crash when click **Properties** button in analyser status window after the analyser is deleted
+### 🚀 Improvements
+- Improved animation performance.
+- More secure license verification algorithm.
 
-## ✨ Digital Feeder 1.8.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.8.0/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 04.11.2021
+<p>&nbsp;</p>
 
-### New Feature
-- Analyser for average and median velocity of dynamic objects and high point
+### 🔧 Fix
+- Fixed: duplicated kinematic object does not move properly because of wrong neutral position and angle.
 
-### Fixes
-- Fixed: casesensitivity caused error when saving `.STL` or `.JSON` in `.dfs`
-- Fixed: right click in 3D window may cause simulation to get stuck and fail to display context menu
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.7.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.1/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 21.10.2021
+<p>&nbsp;</p>
 
-### Improvements
-- Dynamic force for compressed air 
-- Show size of bounding shapes in simplification tab
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>04.02.2022</span>
+</div>
 
-### Fixes
-- Fixed: BSA `.json` file cannot be saved into `.dfs` file in Version 1.7.0
-- Fixed: highlight color of selected object vanishes when simulation is stopped
-- Fixed: compressed air does not exert a force on object sometimes (fails in finding the intersection point)
+## Digital Feeder 1.10.2
 
-## ✨ Digital Feeder 1.7.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.7.0/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 12.10.2021
+### 🔧 Fix
+- Fixed: analyser status window caused freezing.
 
-### New Features
-- Resize primitive object
-- Orthographic view
-- Zoom Speed controller
+<p>&nbsp;</p>
 
-### Improvements
-- New design of tool bar
-- Change hotkey <kbd>Shift</kbd> from third digit after comma to one digit after comma, it works in most decimal spinboxes
-- Remember last used filename
-- Show compressed air colored und bold in object list
-- Show colored square as icon of color selecting button in Properties dialog
+<p>&nbsp;</p>
 
-### Fix
-- Support filename with german umlauts and some other special characters
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>03.02.2022</span>
+</div>
 
+## Digital Feeder 1.10.1 
 
-## ✨ Digital Feeder 1.6.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.6.0/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 20.09.2021
+### ✨ New Features
+- Change background color.
+- Enable/disable grids.
 
-### New Feature
-- New object: compressed air
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.5.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.5.0/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 25.08.2021
+### 🚀 Improvement
+- More obvious outline.
 
-### New Features
-- New simplification type: convex decomposition (V-HACD)
-- **Compare** button for simplification preview
+<p>&nbsp;</p>
 
-### Improvement
-- BSA parts are colored now in simplification preview
+<p>&nbsp;</p>
 
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>27.01.2022</span>
+</div>
 
+## Digital Feeder 1.10.0 
 
-## ✨ Digital Feeder 1.4.8  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.4.8/df_setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 09.08.2021
+### ✨ New Feature
+- Animation speed controller.
 
-### New Feature
-- More object parameters in treeview
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.4.7  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Installer_1.4.7/setup.exe)
-<i class="far fa-calendar-alt"></i> &nbsp; 29.07.2021
+### 🚀 Improvements
+- Improved animation performance.
+- Outline for selected object.
+- Display positive achse of world-KOS.
+- Improved object material appearance.
 
-### New Feature
-- New primitive object: cone
+<p>&nbsp;</p>
 
-### Improvement
-- Added end-user license agreement
+### 🔧 Fixes
+- Fixed: camera moved to distant position while pressing <kbd>ESC</kbd> button.
+- Fixed: sink was shown in a wrong position after being resized.
 
-### Fix
-- Fixed: the BSA json created by 1.4.6 could not be loaded properly
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.4.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.6.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 23.07.2021
+<p>&nbsp;</p>
 
-### New Feature
-- Source's core object properties dialog
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>10.12.2021</span>
+</div>
 
-### Fixes
-- New created object's bullet rotation was not updated in time after setting rotation
+## Digital Feeder 1.9.4 
+### ✨ New Features
+- SolidWorks mode to pan, rotate and zoom view.
+- Status window for velocity and postion of kinematic and dynamic object.
 
-## ✨ Digital Feeder 1.4.5.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.1.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
+<p>&nbsp;</p>
 
-### Fixes
-- Fixed crash when loading corrupted or non-standard format `.stl` format
-- Fixed crash when loading corrupted `.dfs`
+### 🚀 Improvement
+- Always display coordinate values inside the chart in analyser status window.
 
-## ✨ Digital Feeder 1.4.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.5.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 21.07.2021
+<p>&nbsp;</p>
 
-### New Features
+<p>&nbsp;</p>
 
-- Timer sink
-- Export custom object as binary `.stl` file
-- Control camera per infinite mouse drag
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>06.12.2021</span>
+</div>
+## Digital Feeder 1.9.3 
+### 🔧 Fixes
+- Fixed: crash when stopping simulation in version 1.9.0-1.9.2.
+- Fixed: crash when deselecting objects in object list in version 1.9.0-1.9.2.
+- Fixed: crash when running on specific computers.
 
-### Improvements
+<p>&nbsp;</p>
 
-- Save `.stl` as binary file in `.dfs` file
-- Reduced `.dfs` file size by reducing `.stl` and `.json`
-- Only remove dynamic objects under minimum z
-- Improved thread safety
+<p>&nbsp;</p>
 
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>23.11.2021</span>
+</div>
 
-## ✨ Digital Feeder 1.4.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.4.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 13.07.2021
+## Digital Feeder 1.9.2
+### ✨ New Feature
+- Default source parameters in equipment.
 
-### New Features
+<p>&nbsp;</p>
 
-- Sink to remove objects periodically
+### 🚀 Improvement
+- Add licensing infomation for Dear ImGUI and OpenSSL in About window.
+
+<p>&nbsp;</p>
+
+### 🔧 Fix
+- Fixed: crash when moving/rotating a source with 3D manipulator, if the source was converted from an object.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>18.11.2021</span>
+</div>
+
+## Digital Feeder 1.9.1 
+### 🔧 Fixes
+- Fixed: BSA `.json` file couldn't be saved into `.dfs` file.
+- Fixed: the background color of preview in simplification tab was not displayed correctly.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>16.11.2021</span>
+</div>
+
+## Digital Feeder 1.9.0 
+
+### ✨ New Features
+- 3D manipulator.
+- Unset source back to object.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvement
+- Remove summation line on position chart in analyser status window.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>08.11.2021</span>
+</div>
+
+## Digital Feeder 1.8.1 
+
+### ✨ New Feature
+- Measurement of **position** in analyser.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+- Activate & deactivate every measurement in analyser.
+- Smaller dimensions for primitive objects.
+
+<p>&nbsp;</p>
+
+### 🔧 Fix
+- Fixed: crash when click **Properties** button in analyser status window after the analyser is deleted.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>04.11.2021</span>
+</div>
+
+## Digital Feeder 1.8.0
+
+### ✨ New Feature
+- Analyser for average and median velocity of dynamic objects and high point.
+
+<p>&nbsp;</p>
+
+### 🔧 Fixes
+- Fixed: casesensitivity caused error when saving `.STL` or `.JSON` in `.dfs`.
+- Fixed: right click in 3D window may cause simulation to get stuck and fail to display context menu.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>21.10.2021</span>
+</div>
+
+## Digital Feeder 1.7.1
+
+### 🚀 Improvements
+- Dynamic force for compressed air.
+- Show size of bounding shapes in simplification tab.
+
+<p>&nbsp;</p>
+
+### 🔧 Fixes
+- Fixed: BSA `.json` file cannot be saved into `.dfs` file in Version 1.7.0.
+- Fixed: highlight color of selected object vanishes when simulation is stopped.
+- Fixed: compressed air does not exert a force on object sometimes (fails in finding the intersection point).
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>12.10.2021</span>
+</div>
+
+## Digital Feeder 1.7.0 
+
+### ✨ New Features
+- Resize primitive object.
+- Orthographic view.
+- Zoom Speed controller.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+- New design of tool bar.
+- Change hotkey <kbd>Shift</kbd> from third digit after comma to one digit after comma, it works in most decimal spinboxes.
+- Remember last used filename.
+- Show compressed air colored und bold in object list.
+- Show colored square as icon of color selecting button in Properties dialog.
+
+<p>&nbsp;</p>
+
+### 🔧 Fix
+- Support filename with german umlauts and some other special characters.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>20.09.2021</span>
+</div>
+
+## Digital Feeder 1.6.0
+
+### ✨ New Feature
+- New object: compressed air.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>25.08.2021</span>
+</div>
+
+## Digital Feeder 1.5.0 
+
+### ✨ New Features
+- New simplification type: convex decomposition (V-HACD).
+- **Compare** button for simplification preview.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvement
+- BSA parts are colored now in simplification preview.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>09.08.2021</span>
+</div>
+
+## Digital Feeder 1.4.8
+### ✨ New Feature
+- More object parameters in treeview.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>29.07.2021</span>
+</div>
+
+## Digital Feeder 1.4.7 
+
+### ✨ New Feature
+- New primitive object: cone.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvement
+- Added end-user license agreement.
+
+<p>&nbsp;</p>
+
+### 🔧 Fix
+- Fixed: the BSA json created by 1.4.6 could not be loaded properly.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>23.07.2021</span>
+</div>
+
+## Digital Feeder 1.4.6 
+
+### ✨ New Feature
+- Source's core object properties dialog.
+
+<p>&nbsp;</p>
+
+### 🔧 Fix
+- New created object's bullet rotation was not updated in time after setting rotation.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>21.07.2021</span>
+</div>
+
+## Digital Feeder 1.4.5.1
+
+### 🔧 Fixes
+- Fixed crash when loading corrupted or non-standard format `.stl` format.
+- Fixed crash when loading corrupted `.dfs`.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>21.07.2021</span>
+</div>
+
+## Digital Feeder 1.4.5 
+
+### ✨ New Features
+
+- Timer sink.
+- Export custom object as binary `.stl` file.
+- Control camera per infinite mouse drag.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+
+- Save `.stl` as binary file in `.dfs` file.
+- Reduced `.dfs` file size by reducing `.stl` and `.json`.
+- Only remove dynamic objects under minimum z.
+- Improved thread safety.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>13.07.2021</span>
+</div>
+
+## Digital Feeder 1.4.4 
+
+### ✨ New Features
+
+- Sink to remove objects periodically.
 - More precise control via Manipulator:
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down): single step = 1,
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> with <kbd>Ctrl</kbd> hold or key <kbd>Page Up</kbd>/<kbd>Page Down</kbd>: single step = 10,
 	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down) with <kbd>Shift</kbd> hold: single step = 0.001,
 	- Key <kbd>Page Up</kbd>/<kbd>Page Down</kbd> with <kbd>Shift</kbd> hold: single step = 0.01,
-	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down) with <kbd>Shift</kbd> and <kbd>Ctrl</kbd> hold: single step = 0.01
+	- Key <kbd>↑</kbd>/<kbd>↓</kbd> (or wheel up/down) with <kbd>Shift</kbd> and <kbd>Ctrl</kbd> hold: single step = 0.01.
+	
+	<p>&nbsp;</p>
 
-### Improvement
-- Represent bounding sphere with spherical polyhedron
+### 🚀 Improvement
+- Represent bounding sphere with spherical polyhedron.
 
-## ✨ Digital Feeder 1.4.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.3.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 08.07.2021
+<p>&nbsp;</p>
 
-### New Features
-- Shift bsa via center of mass of a custom feeding part
-- Visibility states in treeview
+<p>&nbsp;</p>
 
-### Improvements
-- Load bsa json file as equipment with immaterial components
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>08.07.2021</span>
+</div>
 
+## Digital Feeder 1.4.3
 
-## ✨ Digital Feeder 1.4.2.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.2.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
+### ✨ New Features
+- Shift bsa via center of mass of a custom feeding part.
+- Visibility states in treeview.
 
-### Improvements
-- Diagram for kinematic impuls
+<p>&nbsp;</p>
 
-### Fixes
+### 🚀 Improvement
+- Load bsa json file as equipment with immaterial components.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>29.06.2021</span>
+</div>
+
+## Digital Feeder 1.4.2.2
+
+### ✨ Improvements
+- Diagram for kinematic impuls.
+
+<p>&nbsp;</p>
+
+### 🚀 Fixes
 - Rotational vibration didn't run properly.
 
-## ✨ Digital Feeder 1.4.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.2.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 29.06.2021
+<p>&nbsp;</p>
 
-### New feature
-- Kinematic impuls
+<p>&nbsp;</p>
 
-### Improvements
-- Waiting cursor shows when waiting popup is showing
-- Version info is saved in `.dfs` file
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>29.06.2021</span>
+</div>
 
-### Fixes
+## Digital Feeder 1.4.2
+
+### ✨ New feature
+- Kinematic impuls.
+
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+- Waiting cursor shows when waiting popup is showing.
+- Version info is saved in `.dfs` file.
+
+<p>&nbsp;</p>
+
+### 🔧 Fixes
 - Empty animation will be not skipped now.
 - Animation didn't run properly after stop sometimes.
 - Crash when reset or stop simulation.
 
-## ✨ Digital Feeder 1.4.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.4.1.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 23.06.2021
+<p>&nbsp;</p>
 
-### Major changes
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>23.06.2021</span>
+</div>
+
+## Digital Feeder 1.4.1 
+
+### ✨ Major changes
 - This version of Digital Feeder has been upgraded to a multithreading structure with many backend improvements. Multithreading gives Digital Feeder more possibilities for further development of many other new features in the future, such as animation pausing/replaying, GUI switching (GUIs built with modern technologies), simulation speed optimisation, upgrade to web app etc..
 - Better object structure, which makes the further development easier, such as adding new kinematic motion types, e.g. impuls.
 
-### Improvements
-- Initial margin of a custom object can be read now
-- Waiting-popups while loading and saving `.dfs` files
-- The position and angle of an object are displayed in the manipulator in real time during simulation 
+<p>&nbsp;</p>
+
+### 🚀 Improvements
+- Initial margin of a custom object can be read now.
+- Waiting-popups while loading and saving `.dfs` files.
+- The position and angle of an object are displayed in the manipulator in real time during simulation.
 - Better memory management: Simulation and rendering consume less memory.
 - Setting tab for vibration rearranged.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.3.6  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.3.6.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 11.04.2021
+<p>&nbsp;</p>
 
-### New feature
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>11.04.2021</span>
+</div>
+## Digital Feeder 1.3.6 
+### ✨ New feature
 - Factor value for default kinematic parameters.
 
-## ✨ Digital Feeder 1.3.5  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder_Release/raw/main/Digital_Feeder_1.3.5.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 06.04.2021
+<p>&nbsp;</p>
 
-### New feature
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>06.04.2021</span>
+</div>
+
+## Digital Feeder 1.3.5 
+
+### ✨ New feature
 - License system.
 
-## ✨ Digital Feeder 1.3.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.4/Digital_Feeder_1.3.4.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 25.03.2021
+<p>&nbsp;</p>
 
-### New features
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>25.03.2021</span>
+</div>
+
+## Digital Feeder 1.3.4
+### ✨ New feature
 - BSA support for cylinder and sphere.
 
-## ✨ Digital Feeder 1.3.3  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.3/Digital_Feeder_1.3.3.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 24.03.2021
+<p>&nbsp;</p>
 
-### New features
-- Save/load BSA json file
+<p>&nbsp;</p>
 
-### Fix
-- Moved origin of coordinate system from center of bounding box to center of mass of the object
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>24.03.2021</span>
+</div>
 
-## ✨ Digital Feeder 1.3.2  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.2/Digital_Feeder_1.3.2.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 24.03.2021
+## Digital Feeder 1.3.3
 
-### New features
-- Show/hide original collision shape in simplification dialog
+### ✨ New feature
+- Save/load BSA json file.
 
-## ✨ Digital Feeder 1.3.1  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.1/Digital_Feeder_1.3.1.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 23.03.2021
+<p>&nbsp;</p>
 
-### Fix
+### 🔧 Fix
+- Moved origin of coordinate system from center of bounding box to center of mass of the object.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>24.03.2021</span>
+</div>
+
+## Digital Feeder 1.3.2 
+### ✨ New feature
+- Show/hide original collision shape in simplification dialog.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>23.03.2021</span>
+</div>
+
+## Digital Feeder 1.3.1 
+
+### 🔧 Fix
 - Calculate the vibration with kinematic parameters as second rotation (using quaternion multiplication), instead of as the superposition of the first rotation (addition).
 
-## ✨ Digital Feeder 1.3.0  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.3.0/Digital_Feeder_1.3.0.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 26.02.2021
+<p>&nbsp;</p>
 
-### New features
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>26.02.2021</span>
+</div>
+
+## Digital Feeder 1.3.0
+### ✨ New features
 - New simplification type: **basic shape assembly**.
 - Add **default material** menu into *Physical Properties* dialog window.
 - Add **default kinematic** menu into *Physical Properties* dialog window.
 - **Reset** button to remove everything from the scenario.
 
-### Improvements
+<p>&nbsp;</p>
+
+### 🚀 Improvements
 - Zoom in&out with scroll wheel without moving the camera focus point.
-- Update Bullet engine to 3.08
+- Update Bullet engine to 3.08.
 - Simplification preview improved.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.2.4  &nbsp;[<i class="fas fa-download fa-xs"></i>](https://github.com/RNADigitalSolutions/Digital_Feeder/releases/download/v1.2.4/Digital_Feeder_1.2.4.zip)
-<i class="far fa-calendar-alt"></i> &nbsp; 24.01.2021
+<p>&nbsp;</p>
 
-### Fixes
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>24.01.2021</span>
+</div>
+## Digital Feeder 1.2.4
+### 🔧 Fixes
 
 - Kinematic does not go back to neutral location after simulation stops.
 - Object states cannot be reset properly after simulatin stops.
 - Limit of duplicated source cannot be copied.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.2.3
-<i class="far fa-calendar-alt"></i> &nbsp; 20.01.2021
+<p>&nbsp;</p>
 
-### Fixes
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>20.01.2021</span>
+</div>
+## Digital Feeder 1.2.3
+### 🔧 Fix
 
-- Position is unproperly set after stop and restart
+- Position is unproperly set after stop and restart.
 
-## ✨ Digital Feeder 1.2.2
-<i class="far fa-calendar-alt"></i> &nbsp; 20.01.2021
+<p>&nbsp;</p>
 
-### Fixes
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>20.01.2021</span>
+</div>
+
+## Digital Feeder 1.2.2
+### 🔧 Fixes
 
 - Time is not reset once stopped.
 - Generated part count of source is not reset once stopped, which may cause source stop generating parts after restarted.
 - `dfs` file with object with modified margin value cannot be loaded.
 - About window may cause crash.
 
-## ✨ Digital Feeder 1.2.1
-<i class="far fa-calendar-alt"></i> &nbsp; 11.01.2021
+<p>&nbsp;</p>
 
-### Improvements
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>11.01.2021</span>
+</div>
+
+## Digital Feeder 1.2.1
+### 🚀 Improvements
 
 - Maximize window after start.
 - New icons.
 - Equipment button on tool bar.
 - Bigger default width of object list.
 
-### Fixes
+<p>&nbsp;</p>
+
+### 🔧 Fix
 
 - Neutral point of vibration is shiftet after pausing simulation.
 
-## ✨ Digital Feeder 1.2.0 
-<i class="far fa-calendar-alt"></i> &nbsp; 25.12.2020 Merry Christmas
+<p>&nbsp;</p>
 
-### New features
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>25.12.2020</span>
+</div>
+
+## Digital Feeder 1.2.0 
+### ✨ New features
 
 - Simplification: bounding box, cylinder & sphere.
 	- Auto-selection of the most suitable bounding shape when simplifing the custom object.
@@ -566,8 +1048,10 @@
 
 ![](img/autoRemove.png)
 
+<p>&nbsp;</p>
 
-### Improvements
+
+### 🚀 Improvements
 
 - Shared collsion shape data:
 	1. saves CPU. the collsion shape data is calculated ONCE when a custom object is loaded from stl file. The data will not be recalculated again when this custom obj is cloned.
@@ -576,19 +1060,29 @@
 - Reset settings to default values.
 - Remove the unfinished material settings from object properties dialog.
 
-### Fixes
+<p>&nbsp;</p>
+
+### 🔧 Fix
 
 - Corrected Upper limit of generated objects shown in source properties dialog from 99 to 999999999.
 
-## ✨ Digital Feeder 1.1.0 
-<i class="far fa-calendar-alt"></i> &nbsp; 07.12.2020
+<p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
-### **Attention**
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>07.12.2020</span>
+</div>
+
+## Digital Feeder 1.1.0 
+
+### ❗ Attention
 
 Due to the new **Equipment** feature, **Stop** button does not work properly again, it's always a headache. Therefore it's **temporarily** disabled in this version.
 
-### New features
+<p>&nbsp;</p>
+
+### ✨ New features
 
 - **Equipment**: **Static** und **kinematic** objects can be now added into a new/existing equipment.
 
@@ -598,52 +1092,74 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 
 ![](img/equipment_library.png)
 
-### Known issues
+<p>&nbsp;</p>
+
+### 🚩 Known issues
 
 - Equipments in **equipment library** with the SAME NAME can cause chaos. So it's recommanded to rename an equipment before adding it into library.
 - One equipment can only be added into the library ONCE.
 - Equipment cannot be rotated.
 
-### Features in todo
+<p>&nbsp;</p>
+
+### ☑️ Features in todo
 
 - Solve above issues.
 - Preview in Equipment Library window.
 - Rename equipment in Equipment Library.
 - Drag a component out of the equipment, which it belongs.
 
-### Improvements
+<p>&nbsp;</p>
+
+### 🚀 Improvements
 
 - Replaced GPL-licensed library `tarlib` with BSD-licensed library `libarchive`, which is also more powerful and stable.
 - Removed GPL-licensed library `qcustomplot` and its related feature **Plot Motion**.
 
+<p>&nbsp;</p>
 
-## ✨ Digital Feeder 1.0.4
-<i class="far fa-calendar-alt"></i> &nbsp; 23.10.2020
+<p>&nbsp;</p>
 
-### New features
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>23.10.2020</span>
+</div>
+## Digital Feeder 1.0.4
+### ✨ New features
 
 - Margin setting.
 - Higher simulation step precision (it can be set to 0.1 ms now).
 
-### Improvements
+<p>&nbsp;</p>
+
+### 🚀 Improvements
 
 - Expanded the range of vibration values to 999 mm.
 - Added License information.
 
+<p>&nbsp;</p>
 
-### Fixes
+
+### 🔧 Fixes
 - Visibility status was not saved into scenario file.
 - When a scenraio file is loaded serveral times, objects and sources share the same id.
 
-## ✨ Digital Feeder 1.0.0
-<i class="far fa-calendar-alt"></i> &nbsp; 22.09.2020
+<p>&nbsp;</p>
 
-### **Attention**
+<p>&nbsp;</p>
+
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>22.09.2020</span>
+</div>
+
+## Digital Feeder 1.0.0
+### **❗ Attention**
 
 Due to the new **transformation** function, this version may have problems loading the `dfs` file generated by the previous versions. Therefore, you may need to use this version to recreate a `dfs` file for a corresponding scene.
 
+<p>&nbsp;</p>
 
-### New features
+
+### ✨ New features
 
 - **Search bar**: search objects and sources by name (shortcut <kbd>Ctrl</kbd>+<kbd>F</kbd>).
 
@@ -656,10 +1172,10 @@ Due to the new **transformation** function, this version may have problems loadi
 - Remove source, at the same time all child objects of the source will be removed as well.
 - Move and rotate source from manipulator.
 
+<p>&nbsp;</p>
 
 
-
-### Improvements
+### 🚀 Improvements
 
 - Highlight selected source.
 - Save button on tool bar.
@@ -667,87 +1183,6 @@ Due to the new **transformation** function, this version may have problems loadi
 - Source is shown as bold and yellow in tree view, to make it more obvious.
 
 
-
-## ✨ 02.09.2020 (incomplete version)
-
-### New features
-
-- 3D-window picker: selection of objects and sources from 3D-window (holding <kbd>Ctrl</kbd> or <kbd>Shift</kbd> for multiselection).
-- Tree view: the objects generated from one source will be shown in a group.
-- Content menu for selected objects and/or sources from tree view and 3D-window.
-- **Source Properties** Dialog: the paramters of source can be shown here, and source can be also paused and restarted.
-- Normal distribution for restitution and friction.
-- Hide/unhide objects and sources.
-
-### Improvements
-
-- Adjusted icon for **Create Source** button.
-- Better structure of the entire codebase.
-
-### Incomplete features
-
-This version is incomplete. The following features are still under heavy construction and will be done in next releases:
-
-- **Stop** button: it does not work properly (again).
-- Source is still not parameterizable from **Source Properties**.
-- Source cannot be removed.
-- Selected source still cannot be highlighted in 3D-window.
-- By clicking on **Properties** button: 
-	- when only objects are selected, the **Object Properties** dialog shows;
-	- when only sources are selected, the **Source Properties** dialog shows;
-	- But when both objects and sources are selected, also only the **Object Properties** dialog shows, which is wrong. (In the next release, a dialog will be shown at first, to let user choose which dialog window to be shown.)
-
-
-## ✨ 19.07.2020
-
-###  Improvements
-
-- Greater camera far plane to render the objects far away from camera.
-
-### Fixes
-
-- Failure when setting color of sevaral objects parallelly.
-- Failure when turning object from static to kinematic.
-
-## ✨ 07.07.2020
-
-### New features
-
-- Set static object **immaterial**, in oder to remove its rigid body from simulation.
-- New file format `.dfs` (*Digital Feeder Scenario*).
-- Drag & Drop `.stl` and `.dfs` files.
-- Open `.dfs` file directly with Digital Feeder.
-- Multi parameterization.
-
-### Fixes
-
-- Crash when loading ASCII `stl` file.
-
-## ✨ 16.06.2020
-
-### New features:
-
-- Shortcut: double click middle button on object: Move camera to current selected object and set it as the camera focus center.
-- Motion flag (Dynamic/Static/Kinematic) for each object shown in object list.
-- Stop simulation: before the first run of the simulation, the scenario will be saved as the start scenario. When clicking the stop button, the scenario will be reset to the start scenario:
-
-![](/img/stop_button.gif) 
-
-###  Improvements
-
-- Import several `stl`-files at the same time. The selection count is shown in status bar.
-- Rename the imported `stl` objects with their file name automatically.
-- Object multiselection und deselection.
-- Optimized the behavior of button state switching (enabled/disabled).
-- After simulation paused/stopped, the object position and angle will be updated in the manipulator.
-- Warning when create more than one source at the same time.
-- The objects, which are cloned from the same part source, share the same bullet collision shape.
-
-
-### Fixes
-
-- Manipulator behavior.
-- Stop button behavior.
 
 
 <head>
