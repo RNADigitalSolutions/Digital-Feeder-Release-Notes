@@ -1,20 +1,32 @@
-## Versions
+<div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
+  <span>06.12.2022</span>
+</div>
 
-- <a href="#1.14">v1.14</a>
-- <a href="#1.13">v1.13</a>
-- <a href="#1.12">v1.12</a>
-- <a href="#1.11">v1.11</a>
-- <a href="#1.10">v1.10</a>
-- <a href="#1.9">v1.9</a>
-- <a href="#1.8">v1.8</a>
-- <a href="#1.7">v1.7</a>
-- <a href="#1.6">v1.6</a>
-- <a href="#1.5">v1.5</a>
-- <a href="#1.4">v1.4</a>
-- <a href="#1.3">v1.3</a>
-- <a href="#1.2">v1.2</a>
-- <a href="#1.1">v1.1</a>
-- <a href="#1.0">v1.0</a>
+## ✨ Digital Feeder 2.0.5 Beta
+
+### New feature
+
+- Option to turn off history mode for better simulation performance (`Menubar` &#8594; `Simulation`&#8594; `Turn Off History Playback`)。
+
+### Improvements
+
+- Notification after reserved Simulation finished.
+- New material data.
+
+### Fixes
+
+- History log files missing in dfsx file.
+- A dfs/dfsx file could not be loaded properly sometimes when restarting the Digital Feeder immediately after closing it.
+
+## ✨ Digital Feeder 2.0.4 Beta
+
+### New features
+
+- Playback of simulation history.
+- Edit scene and restart simulation at any time point in history.
+- New file format `.dfsx` containing the simulation history.
+- Video recording: record video at real speed from 3D view.
+- Reservation: set a simulation timer, reserved actions will be executed automatically after timeout. Actions can be: save `.dfsx` file, send notification via Telegram Bot, record screen and shut down computer.
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>06.12.2022</span>
@@ -27,8 +39,6 @@
 ### Improvements
 - Larger upper limit for dynamic force for compressed air,
 - Resized simulation speed slider and properties dialog window.
-
-<div id="1.14"></div>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>30.09.2022</span>
@@ -50,8 +60,6 @@
 
 ### New Feature
 - Feeding parameters for vibration.
-
-<div id="1.13"></div>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>25.08.2022</span>
@@ -78,8 +86,6 @@
 ### Fix
 - Crash when changing simplification of an object and then moving it.
 
-<div id="1.12"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>08.07.2022</span>
 </div>
@@ -101,8 +107,6 @@
 ### Fixes
 - Margin value of custom object couldn't be loaded properly.
 - COM shift for BSA caused freezing.
-
-<div id="1.11"></div>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>17.06.2022</span>
@@ -288,8 +292,6 @@
 ### Improvement
 - More obvious outline
 
-<div id="1.10"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>27.01.2022</span>
 </div>
@@ -355,8 +357,6 @@
 - Fixed: BSA `.json` file couldn't be saved into `.dfs` file
 - Fixed: the background color of preview in simplification tab was not displayed correctly
 
-<div id="1.9"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>16.11.2021</span>
 </div>
@@ -386,8 +386,6 @@
 ### Fixes
 - Fixed: crash when click **Properties** button in analyser status window after the analyser is deleted
 
-<div id="1.8"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>04.11.2021</span>
 </div>
@@ -416,8 +414,6 @@
 - Fixed: highlight color of selected object vanishes when simulation is stopped
 - Fixed: compressed air does not exert a force on object sometimes (fails in finding the intersection point)
 
-<div id="1.7"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>12.10.2021</span>
 </div>
@@ -439,8 +435,6 @@
 ### Fix
 - Support filename with german umlauts and some other special characters
 
-<div id="1.6"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>20.09.2021</span>
 </div>
@@ -449,8 +443,6 @@
 
 ### New Feature
 - New object: compressed air
-
-<div id="1.5"></div>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>25.08.2021</span>
@@ -591,8 +583,6 @@
 - Animation didn't run properly after stop sometimes.
 - Crash when reset or stop simulation.
 
-<div id="1.4"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>23.06.2021</span>
 </div>
@@ -665,8 +655,6 @@
 ### Fix
 - Calculate the vibration with kinematic parameters as second rotation (using quaternion multiplication), instead of as the superposition of the first rotation (addition).
 
-<div id="1.3"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>26.02.2021</span>
 </div>
@@ -733,8 +721,6 @@
 
 - Neutral point of vibration is shiftet after pausing simulation.
 
-<div id="1.2"></div>
-
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>25.12.2020</span>
 </div>
@@ -762,8 +748,6 @@
 ### Fixes
 
 - Corrected Upper limit of generated objects shown in source properties dialog from 99 to 999999999.
-
-<div id="1.1"></div>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>07.12.2020</span>
@@ -823,8 +807,6 @@ Due to the new **Equipment** feature, **Stop** button does not work properly aga
 ### Fixes
 - Visibility status was not saved into scenario file.
 - When a scenraio file is loaded serveral times, objects and sources share the same id.
-
-<div id="1.0"></div>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>22.09.2020</span>
